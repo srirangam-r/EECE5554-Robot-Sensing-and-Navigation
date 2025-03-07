@@ -1,0 +1,5322 @@
+[
+    {
+        "timestamp": 1729532748.5994432,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532749.5966144,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532750.5945334,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532751.594336,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532752.599303,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532753.5973852,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532754.5944343,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532755.6003284,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532756.5936122,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532757.5954077,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532758.5968456,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532759.6035879,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532760.601032,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532761.60118,
+        "latitude": 42.337426666666666,
+        "longitude": -71.08960166666667,
+        "altitude": 22.8,
+        "utm_easting": 327857.8153607171,
+        "utm_northing": 4689356.056355544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532762.5944831,
+        "latitude": 42.33744166666666,
+        "longitude": -71.089595,
+        "altitude": 22.5,
+        "utm_easting": 327858.40551685996,
+        "utm_northing": 4689357.708494906,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532763.594739,
+        "latitude": 42.33745166666667,
+        "longitude": -71.089605,
+        "altitude": 22.3,
+        "utm_easting": 327857.60896593804,
+        "utm_northing": 4689358.839163464,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532764.5979526,
+        "latitude": 42.33745833333333,
+        "longitude": -71.08961166666667,
+        "altitude": 22.1,
+        "utm_easting": 327857.0779321365,
+        "utm_northing": 4689359.592942558,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532765.5954273,
+        "latitude": 42.33746,
+        "longitude": -71.08961333333333,
+        "altitude": 21.9,
+        "utm_easting": 327856.9451737078,
+        "utm_northing": 4689359.78138734,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532766.5970433,
+        "latitude": 42.33746166666667,
+        "longitude": -71.08961666666667,
+        "altitude": 21.7,
+        "utm_easting": 327856.6751089703,
+        "utm_northing": 4689359.973206263,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532767.603258,
+        "latitude": 42.337465,
+        "longitude": -71.08961833333333,
+        "altitude": 21.8,
+        "utm_easting": 327856.5468984554,
+        "utm_northing": 4689360.346721698,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532768.6002007,
+        "latitude": 42.337473333333335,
+        "longitude": -71.08962833333334,
+        "altitude": 21.6,
+        "utm_easting": 327855.7458002323,
+        "utm_northing": 4689361.292319844,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532769.6025624,
+        "latitude": 42.33748666666666,
+        "longitude": -71.08963666666666,
+        "altitude": 21.5,
+        "utm_easting": 327855.0956523187,
+        "utm_northing": 4689362.789755853,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532770.6005256,
+        "latitude": 42.33750666666667,
+        "longitude": -71.08965166666667,
+        "altitude": 21.3,
+        "utm_easting": 327853.91447168635,
+        "utm_northing": 4689365.040971298,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532771.5983808,
+        "latitude": 42.33753,
+        "longitude": -71.08966833333334,
+        "altitude": 21.1,
+        "utm_easting": 327852.6050817119,
+        "utm_northing": 4689367.665702492,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532772.594972,
+        "latitude": 42.337558333333334,
+        "longitude": -71.089685,
+        "altitude": 20.8,
+        "utm_easting": 327851.3093369361,
+        "utm_northing": 4689370.8456459185,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532773.5971522,
+        "latitude": 42.33758666666667,
+        "longitude": -71.089705,
+        "altitude": 20.5,
+        "utm_easting": 327849.7389813593,
+        "utm_northing": 4689374.032338199,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532774.5995653,
+        "latitude": 42.33762,
+        "longitude": -71.08972333333334,
+        "altitude": 20.2,
+        "utm_easting": 327848.31957769836,
+        "utm_northing": 4689377.77086853,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532775.595951,
+        "latitude": 42.33765833333333,
+        "longitude": -71.08974166666667,
+        "altitude": 19.8,
+        "utm_easting": 327846.9138202432,
+        "utm_northing": 4689382.0646111695,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532776.6014068,
+        "latitude": 42.33770333333333,
+        "longitude": -71.08976333333334,
+        "altitude": 19.3,
+        "utm_easting": 327845.2516460357,
+        "utm_northing": 4689387.105385544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532777.5944812,
+        "latitude": 42.337755,
+        "longitude": -71.08978333333333,
+        "altitude": 18.8,
+        "utm_easting": 327843.74497330165,
+        "utm_northing": 4689392.883068631,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532778.5968726,
+        "latitude": 42.33781,
+        "longitude": -71.089805,
+        "altitude": 18.4,
+        "utm_easting": 327842.1100945149,
+        "utm_northing": 4689399.034267928,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532779.5975485,
+        "latitude": 42.33786666666666,
+        "longitude": -71.08982166666667,
+        "altitude": 17.9,
+        "utm_easting": 327840.8916836771,
+        "utm_northing": 4689405.360414963,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532780.6023045,
+        "latitude": 42.337925,
+        "longitude": -71.08983833333333,
+        "altitude": 17.4,
+        "utm_easting": 327839.6778238914,
+        "utm_northing": 4689411.871632998,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532781.6006413,
+        "latitude": 42.337981666666664,
+        "longitude": -71.08985,
+        "altitude": 17.0,
+        "utm_easting": 327838.8713339097,
+        "utm_northing": 4689418.1876571225,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532782.6013947,
+        "latitude": 42.33803666666667,
+        "longitude": -71.08986166666666,
+        "altitude": 16.4,
+        "utm_easting": 327838.0602973447,
+        "utm_northing": 4689424.318610776,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532783.5971615,
+        "latitude": 42.33808666666667,
+        "longitude": -71.08987166666667,
+        "altitude": 16.0,
+        "utm_easting": 327837.3729220423,
+        "utm_northing": 4689429.890978063,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532784.5944786,
+        "latitude": 42.33813,
+        "longitude": -71.08988333333333,
+        "altitude": 15.5,
+        "utm_easting": 327836.53004920227,
+        "utm_northing": 4689434.7264374,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532785.5953252,
+        "latitude": 42.33816,
+        "longitude": -71.08989333333334,
+        "altitude": 15.0,
+        "utm_easting": 327835.78809407656,
+        "utm_northing": 4689438.07795696,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532786.5954838,
+        "latitude": 42.338166666666666,
+        "longitude": -71.08989666666666,
+        "altitude": 14.7,
+        "utm_easting": 327835.5316787566,
+        "utm_northing": 4689438.824988833,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532787.5953496,
+        "latitude": 42.33816,
+        "longitude": -71.089905,
+        "altitude": 14.2,
+        "utm_easting": 327834.8269605372,
+        "utm_northing": 4689438.101579199,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532788.6005528,
+        "latitude": 42.33815333333333,
+        "longitude": -71.08990666666666,
+        "altitude": 15.4,
+        "utm_easting": 327834.67146140017,
+        "utm_northing": 4689437.36467114,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532789.6019323,
+        "latitude": 42.338155,
+        "longitude": -71.08991333333333,
+        "altitude": 15.3,
+        "utm_easting": 327834.12679077534,
+        "utm_northing": 4689437.563240301,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532790.6012073,
+        "latitude": 42.33815166666667,
+        "longitude": -71.08991166666667,
+        "altitude": 15.0,
+        "utm_easting": 327834.254998385,
+        "utm_northing": 4689437.189724336,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532791.600543,
+        "latitude": 42.33815666666667,
+        "longitude": -71.08991666666667,
+        "altitude": 14.9,
+        "utm_easting": 327833.856729778,
+        "utm_northing": 4689437.755060233,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532792.5963047,
+        "latitude": 42.338165,
+        "longitude": -71.08991666666667,
+        "altitude": 14.8,
+        "utm_easting": 327833.8794728216,
+        "utm_northing": 4689438.680413577,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532793.594906,
+        "latitude": 42.338188333333335,
+        "longitude": -71.08992333333333,
+        "altitude": 14.8,
+        "utm_easting": 327833.39393444423,
+        "utm_northing": 4689441.284901511,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532794.5953505,
+        "latitude": 42.33821833333333,
+        "longitude": -71.08993666666667,
+        "altitude": 14.8,
+        "utm_easting": 327832.37737241003,
+        "utm_northing": 4689444.643170824,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532795.6009762,
+        "latitude": 42.338255,
+        "longitude": -71.08995166666666,
+        "altitude": 14.7,
+        "utm_easting": 327831.24170164333,
+        "utm_northing": 4689448.745097713,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532796.594513,
+        "latitude": 42.33829333333333,
+        "longitude": -71.08996833333333,
+        "altitude": 14.7,
+        "utm_easting": 327829.97327661054,
+        "utm_northing": 4689453.035470238,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532797.598496,
+        "latitude": 42.338335,
+        "longitude": -71.089985,
+        "altitude": 14.6,
+        "utm_easting": 327828.7139508696,
+        "utm_northing": 4689457.695984417,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532798.6021094,
+        "latitude": 42.33837833333333,
+        "longitude": -71.08999833333333,
+        "altitude": 14.6,
+        "utm_easting": 327827.73378447915,
+        "utm_northing": 4689462.534820037,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532799.597219,
+        "latitude": 42.33842333333333,
+        "longitude": -71.09001166666667,
+        "altitude": 14.6,
+        "utm_easting": 327826.75816853595,
+        "utm_northing": 4689467.558726545,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532800.5966842,
+        "latitude": 42.33847166666666,
+        "longitude": -71.09003166666666,
+        "altitude": 14.5,
+        "utm_easting": 327825.24243555975,
+        "utm_northing": 4689472.9662739,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532801.5982292,
+        "latitude": 42.338521666666665,
+        "longitude": -71.09005,
+        "altitude": 14.4,
+        "utm_easting": 327823.8685581685,
+        "utm_northing": 4689478.555517519,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532802.5967603,
+        "latitude": 42.338575,
+        "longitude": -71.09007166666666,
+        "altitude": 14.3,
+        "utm_easting": 327822.22917347855,
+        "utm_northing": 4689484.5216526585,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532803.5979187,
+        "latitude": 42.33862833333333,
+        "longitude": -71.090095,
+        "altitude": 14.1,
+        "utm_easting": 327820.4524881833,
+        "utm_northing": 4689490.491163239,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532804.596399,
+        "latitude": 42.338683333333336,
+        "longitude": -71.09012,
+        "altitude": 14.0,
+        "utm_easting": 327818.54305173224,
+        "utm_northing": 4689496.649120067,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532805.601552,
+        "latitude": 42.33873833333333,
+        "longitude": -71.090145,
+        "altitude": 13.8,
+        "utm_easting": 327816.63361902814,
+        "utm_northing": 4689502.807077571,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532806.6016796,
+        "latitude": 42.33878833333333,
+        "longitude": -71.09016833333334,
+        "altitude": 13.7,
+        "utm_easting": 327814.84784585354,
+        "utm_northing": 4689508.406448632,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532807.60211,
+        "latitude": 42.33884,
+        "longitude": -71.09019333333333,
+        "altitude": 13.5,
+        "utm_easting": 327812.92932181584,
+        "utm_northing": 4689514.194266056,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532808.5961778,
+        "latitude": 42.33888833333334,
+        "longitude": -71.090215,
+        "altitude": 13.5,
+        "utm_easting": 327811.27630904387,
+        "utm_northing": 4689519.6051925095,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532809.604565,
+        "latitude": 42.33893833333333,
+        "longitude": -71.09023833333333,
+        "altitude": 13.5,
+        "utm_easting": 327809.49054540903,
+        "utm_northing": 4689525.204565328,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532810.602042,
+        "latitude": 42.33899,
+        "longitude": -71.09026333333334,
+        "altitude": 13.3,
+        "utm_easting": 327807.5720313969,
+        "utm_northing": 4689530.992384629,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532811.6019876,
+        "latitude": 42.33904166666667,
+        "longitude": -71.09028833333333,
+        "altitude": 13.0,
+        "utm_easting": 327805.65352090145,
+        "utm_northing": 4689536.780204601,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532812.60171,
+        "latitude": 42.33909166666667,
+        "longitude": -71.09030833333334,
+        "altitude": 12.7,
+        "utm_easting": 327804.14237266086,
+        "utm_northing": 4689542.372828695,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532813.5981524,
+        "latitude": 42.33914166666667,
+        "longitude": -71.09033,
+        "altitude": 12.5,
+        "utm_easting": 327802.49392450904,
+        "utm_northing": 4689547.968828544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532814.596197,
+        "latitude": 42.33918833333333,
+        "longitude": -71.09035833333333,
+        "altitude": 12.5,
+        "utm_easting": 327800.28716980474,
+        "utm_northing": 4689553.208188916,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532815.5953918,
+        "latitude": 42.33923333333333,
+        "longitude": -71.09038,
+        "altitude": 12.3,
+        "utm_easting": 327798.62507877045,
+        "utm_northing": 4689558.248977814,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532816.6023998,
+        "latitude": 42.33927833333333,
+        "longitude": -71.09040166666666,
+        "altitude": 12.1,
+        "utm_easting": 327796.96299038973,
+        "utm_northing": 4689563.289767216,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532817.596866,
+        "latitude": 42.33932333333333,
+        "longitude": -71.09042166666667,
+        "altitude": 11.8,
+        "utm_easting": 327795.4382069208,
+        "utm_northing": 4689568.327181655,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532818.595215,
+        "latitude": 42.33936666666666,
+        "longitude": -71.09044,
+        "altitude": 11.5,
+        "utm_easting": 327794.0461782217,
+        "utm_northing": 4689573.176150325,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532819.6038818,
+        "latitude": 42.339405,
+        "longitude": -71.09045833333333,
+        "altitude": 11.2,
+        "utm_easting": 327792.64050200186,
+        "utm_northing": 4689577.469907233,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532820.596886,
+        "latitude": 42.33943,
+        "longitude": -71.09048166666666,
+        "altitude": 11.3,
+        "utm_easting": 327790.78652207856,
+        "utm_northing": 4689580.293225483,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532821.5968077,
+        "latitude": 42.33944833333334,
+        "longitude": -71.09049666666667,
+        "altitude": 11.4,
+        "utm_easting": 327789.60085364326,
+        "utm_northing": 4689582.35938347,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532822.5962949,
+        "latitude": 42.33945333333333,
+        "longitude": -71.09049166666667,
+        "altitude": 12.3,
+        "utm_easting": 327790.026409538,
+        "utm_northing": 4689582.9044688605,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532823.5952168,
+        "latitude": 42.33945,
+        "longitude": -71.09049,
+        "altitude": 13.0,
+        "utm_easting": 327790.15461157134,
+        "utm_northing": 4689582.53095186,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532824.5963433,
+        "latitude": 42.339445,
+        "longitude": -71.090485,
+        "altitude": 14.5,
+        "utm_easting": 327790.55286765087,
+        "utm_northing": 4689581.965613012,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532825.5962138,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532826.6015255,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532827.6030684,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532828.6015818,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532829.5953312,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532830.6020105,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532831.5988138,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532832.6024766,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532833.5982845,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532834.5971866,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532835.6016877,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532836.601873,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532837.6044202,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532838.5964408,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532839.598394,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532840.6017683,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532841.5962248,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532842.5962045,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532843.606879,
+        "latitude": 42.339441666666666,
+        "longitude": -71.09047666666666,
+        "altitude": 16.2,
+        "utm_easting": 327791.23027775175,
+        "utm_northing": 4689581.57859379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532844.6000693,
+        "latitude": 42.33944666666667,
+        "longitude": -71.09048166666666,
+        "altitude": 15.2,
+        "utm_easting": 327790.83202159737,
+        "utm_northing": 4689582.143932595,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532845.6027546,
+        "latitude": 42.339455,
+        "longitude": -71.09048666666666,
+        "altitude": 15.1,
+        "utm_easting": 327790.4428654377,
+        "utm_northing": 4689583.07941285,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532846.5997775,
+        "latitude": 42.33947833333333,
+        "longitude": -71.09050166666667,
+        "altitude": 15.1,
+        "utm_easting": 327789.27084763255,
+        "utm_northing": 4689585.700783058,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532847.601998,
+        "latitude": 42.339508333333335,
+        "longitude": -71.09052166666666,
+        "altitude": 15.0,
+        "utm_easting": 327787.7051253292,
+        "utm_northing": 4689589.07256322,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532848.602261,
+        "latitude": 42.33954166666667,
+        "longitude": -71.09054666666667,
+        "altitude": 14.8,
+        "utm_easting": 327785.7365994635,
+        "utm_northing": 4689592.824612214,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532849.603875,
+        "latitude": 42.339575,
+        "longitude": -71.09057666666666,
+        "altitude": 14.6,
+        "utm_easting": 327783.3561706897,
+        "utm_northing": 4689596.586788982,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532850.5969064,
+        "latitude": 42.33960833333333,
+        "longitude": -71.09061,
+        "altitude": 14.3,
+        "utm_easting": 327780.70114130003,
+        "utm_northing": 4689600.355718188,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532851.6049602,
+        "latitude": 42.33963833333333,
+        "longitude": -71.090645,
+        "altitude": 14.1,
+        "utm_easting": 327777.89971264673,
+        "utm_northing": 4689603.757882897,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532852.5979464,
+        "latitude": 42.339661666666665,
+        "longitude": -71.09068833333333,
+        "altitude": 13.6,
+        "utm_easting": 327774.3935775347,
+        "utm_northing": 4689606.436645397,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532853.605447,
+        "latitude": 42.33967333333333,
+        "longitude": -71.09073666666667,
+        "altitude": 14.4,
+        "utm_easting": 327770.44368695375,
+        "utm_northing": 4689607.830042614,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532854.5971344,
+        "latitude": 42.33967166666667,
+        "longitude": -71.090785,
+        "altitude": 14.3,
+        "utm_easting": 327766.45739277615,
+        "utm_northing": 4689607.742876332,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532855.5969627,
+        "latitude": 42.33965833333333,
+        "longitude": -71.09083666666666,
+        "altitude": 14.2,
+        "utm_easting": 327762.16464013886,
+        "utm_northing": 4689606.366969538,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532856.599156,
+        "latitude": 42.33963833333333,
+        "longitude": -71.09089666666667,
+        "altitude": 14.2,
+        "utm_easting": 327757.16717438126,
+        "utm_northing": 4689604.267663577,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532857.603887,
+        "latitude": 42.33961333333333,
+        "longitude": -71.09096333333333,
+        "altitude": 14.2,
+        "utm_easting": 327751.6068459437,
+        "utm_northing": 4689601.62665428,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532858.5988133,
+        "latitude": 42.33958666666667,
+        "longitude": -71.09103333333333,
+        "altitude": 14.1,
+        "utm_easting": 327745.7673586166,
+        "utm_northing": 4689598.807331463,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532859.5965512,
+        "latitude": 42.339558333333336,
+        "longitude": -71.09111166666666,
+        "altitude": 14.0,
+        "utm_easting": 327739.2368063304,
+        "utm_northing": 4689595.8198255375,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532860.5937688,
+        "latitude": 42.339528333333334,
+        "longitude": -71.09119166666666,
+        "altitude": 13.9,
+        "utm_easting": 327732.5643949283,
+        "utm_northing": 4689592.650631531,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532861.5979114,
+        "latitude": 42.33949666666667,
+        "longitude": -71.09127666666667,
+        "altitude": 13.8,
+        "utm_easting": 327725.4755199172,
+        "utm_northing": 4689589.306503523,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532862.5962253,
+        "latitude": 42.339461666666665,
+        "longitude": -71.09136333333333,
+        "altitude": 13.8,
+        "utm_easting": 327718.2402321764,
+        "utm_northing": 4689585.595618046,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532863.5996523,
+        "latitude": 42.33942666666667,
+        "longitude": -71.09145,
+        "altitude": 13.8,
+        "utm_easting": 327711.0049365325,
+        "utm_northing": 4689581.884739832,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532864.602019,
+        "latitude": 42.339396666666666,
+        "longitude": -71.091535,
+        "altitude": 14.4,
+        "utm_easting": 327703.92059183517,
+        "utm_northing": 4689578.725703786,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532865.604807,
+        "latitude": 42.339373333333334,
+        "longitude": -71.09162,
+        "altitude": 14.5,
+        "utm_easting": 327696.8544501866,
+        "utm_northing": 4689576.306957614,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532866.5994947,
+        "latitude": 42.339345,
+        "longitude": -71.09169666666666,
+        "altitude": 14.7,
+        "utm_easting": 327690.46115664346,
+        "utm_northing": 4689573.31611861,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532867.5983696,
+        "latitude": 42.33931833333333,
+        "longitude": -71.091775,
+        "altitude": 14.8,
+        "utm_easting": 327683.9351079053,
+        "utm_northing": 4689570.513733662,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532868.6019852,
+        "latitude": 42.33929166666667,
+        "longitude": -71.09185166666667,
+        "altitude": 14.7,
+        "utm_easting": 327677.54635605204,
+        "utm_northing": 4689567.707976873,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532869.6035168,
+        "latitude": 42.339265,
+        "longitude": -71.091925,
+        "altitude": 14.7,
+        "utm_easting": 327671.43220366637,
+        "utm_northing": 4689564.895469982,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532870.6011143,
+        "latitude": 42.339238333333334,
+        "longitude": -71.09198833333333,
+        "altitude": 15.0,
+        "utm_easting": 327666.14186093904,
+        "utm_northing": 4689562.062700275,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532871.5968475,
+        "latitude": 42.339215,
+        "longitude": -71.09204,
+        "altitude": 15.3,
+        "utm_easting": 327661.8217380906,
+        "utm_northing": 4689559.576429282,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532872.6013432,
+        "latitude": 42.339193333333334,
+        "longitude": -71.092075,
+        "altitude": 15.9,
+        "utm_easting": 327658.8791911263,
+        "utm_northing": 4689557.241450118,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532873.599166,
+        "latitude": 42.339175,
+        "longitude": -71.0921,
+        "altitude": 16.1,
+        "utm_easting": 327656.7695647421,
+        "utm_northing": 4689555.256344491,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532874.6021712,
+        "latitude": 42.33916166666667,
+        "longitude": -71.09211833333333,
+        "altitude": 16.6,
+        "utm_easting": 327655.22280820843,
+        "utm_northing": 4689553.8129387945,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532875.5969884,
+        "latitude": 42.339153333333336,
+        "longitude": -71.09213,
+        "altitude": 17.0,
+        "utm_easting": 327654.2389222227,
+        "utm_northing": 4689552.91123268,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532876.596826,
+        "latitude": 42.339148333333334,
+        "longitude": -71.09213666666666,
+        "altitude": 17.3,
+        "utm_easting": 327653.67605104134,
+        "utm_northing": 4689552.369533427,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532877.6019728,
+        "latitude": 42.339145,
+        "longitude": -71.09214,
+        "altitude": 17.7,
+        "utm_easting": 327653.3923386489,
+        "utm_northing": 4689552.006148456,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532878.600013,
+        "latitude": 42.339148333333334,
+        "longitude": -71.09214,
+        "altitude": 17.9,
+        "utm_easting": 327653.40144572745,
+        "utm_northing": 4689552.3762898985,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532879.60427,
+        "latitude": 42.339148333333334,
+        "longitude": -71.09213833333334,
+        "altitude": 18.0,
+        "utm_easting": 327653.5387483834,
+        "utm_northing": 4689552.372911661,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532880.5971377,
+        "latitude": 42.33915,
+        "longitude": -71.09214,
+        "altitude": 17.9,
+        "utm_easting": 327653.40599926695,
+        "utm_northing": 4689552.56136062,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532881.594476,
+        "latitude": 42.33915,
+        "longitude": -71.09214,
+        "altitude": 17.9,
+        "utm_easting": 327653.40599926695,
+        "utm_northing": 4689552.56136062,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532882.595064,
+        "latitude": 42.33915,
+        "longitude": -71.09214,
+        "altitude": 17.9,
+        "utm_easting": 327653.40599926695,
+        "utm_northing": 4689552.56136062,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532883.6001801,
+        "latitude": 42.33915,
+        "longitude": -71.09214,
+        "altitude": 17.9,
+        "utm_easting": 327653.40599926695,
+        "utm_northing": 4689552.56136062,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532884.5999632,
+        "latitude": 42.33915,
+        "longitude": -71.09214333333334,
+        "altitude": 17.9,
+        "utm_easting": 327653.1313939603,
+        "utm_northing": 4689552.568117103,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532885.6065207,
+        "latitude": 42.33915,
+        "longitude": -71.09214833333333,
+        "altitude": 17.8,
+        "utm_easting": 327652.7194860012,
+        "utm_northing": 4689552.578251846,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532886.6050098,
+        "latitude": 42.339151666666666,
+        "longitude": -71.09215,
+        "altitude": 17.6,
+        "utm_easting": 327652.5867369082,
+        "utm_northing": 4689552.766700821,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532887.6024265,
+        "latitude": 42.339151666666666,
+        "longitude": -71.09215166666667,
+        "altitude": 17.6,
+        "utm_easting": 327652.44943426154,
+        "utm_northing": 4689552.770079078,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532888.5994234,
+        "latitude": 42.339151666666666,
+        "longitude": -71.09215166666667,
+        "altitude": 17.6,
+        "utm_easting": 327652.44943426154,
+        "utm_northing": 4689552.770079078,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532889.6049314,
+        "latitude": 42.339151666666666,
+        "longitude": -71.09215166666667,
+        "altitude": 17.6,
+        "utm_easting": 327652.44943426154,
+        "utm_northing": 4689552.770079078,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532890.6051028,
+        "latitude": 42.339153333333336,
+        "longitude": -71.092165,
+        "altitude": 17.3,
+        "utm_easting": 327651.355566657,
+        "utm_northing": 4689552.982175946,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532891.6014612,
+        "latitude": 42.339155,
+        "longitude": -71.092175,
+        "altitude": 17.1,
+        "utm_easting": 327650.53630439733,
+        "utm_northing": 4689553.187516391,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532892.6050162,
+        "latitude": 42.33916833333333,
+        "longitude": -71.09219833333333,
+        "altitude": 16.8,
+        "utm_easting": 327648.6504967415,
+        "utm_northing": 4689554.71537857,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532893.602256,
+        "latitude": 42.33918666666667,
+        "longitude": -71.092225,
+        "altitude": 16.6,
+        "utm_easting": 327646.50374592125,
+        "utm_northing": 4689556.805210202,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532894.6045933,
+        "latitude": 42.33920833333333,
+        "longitude": -71.09225333333333,
+        "altitude": 16.4,
+        "utm_easting": 327644.2288014408,
+        "utm_northing": 4689559.268562406,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532895.5979216,
+        "latitude": 42.339235,
+        "longitude": -71.09228166666666,
+        "altitude": 16.2,
+        "utm_easting": 327641.9675201527,
+        "utm_northing": 4689562.2871275805,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532896.6019235,
+        "latitude": 42.339263333333335,
+        "longitude": -71.09231166666666,
+        "altitude": 16.0,
+        "utm_easting": 327639.5734923845,
+        "utm_northing": 4689565.494142796,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532897.601197,
+        "latitude": 42.339305,
+        "longitude": -71.09235,
+        "altitude": 15.7,
+        "utm_easting": 327636.529387229,
+        "utm_northing": 4689570.198617602,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532898.601867,
+        "latitude": 42.339346666666664,
+        "longitude": -71.092385,
+        "altitude": 15.3,
+        "utm_easting": 327633.75989078544,
+        "utm_northing": 4689574.896336601,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532899.6069362,
+        "latitude": 42.339395,
+        "longitude": -71.09241833333333,
+        "altitude": 15.0,
+        "utm_easting": 327631.1459170467,
+        "utm_northing": 4689580.330961074,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532900.604878,
+        "latitude": 42.339443333333335,
+        "longitude": -71.09245166666666,
+        "altitude": 14.8,
+        "utm_easting": 327628.5319476378,
+        "utm_northing": 4689585.765586682,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532901.599155,
+        "latitude": 42.33949166666667,
+        "longitude": -71.09248333333333,
+        "altitude": 14.6,
+        "utm_easting": 327626.0552844696,
+        "utm_northing": 4689591.196834631,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532902.5966551,
+        "latitude": 42.339535,
+        "longitude": -71.092515,
+        "altitude": 14.5,
+        "utm_easting": 327623.56496224925,
+        "utm_northing": 4689596.072871402,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532903.5974903,
+        "latitude": 42.339576666666666,
+        "longitude": -71.09254833333334,
+        "altitude": 14.4,
+        "utm_easting": 327620.9327875215,
+        "utm_northing": 4689600.767217361,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532904.5941486,
+        "latitude": 42.339621666666666,
+        "longitude": -71.09258333333334,
+        "altitude": 14.2,
+        "utm_easting": 327618.17242396704,
+        "utm_northing": 4689605.835084883,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532905.5941749,
+        "latitude": 42.339666666666666,
+        "longitude": -71.09262,
+        "altitude": 13.9,
+        "utm_easting": 327615.27476310264,
+        "utm_northing": 4689610.906332667,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532906.5980992,
+        "latitude": 42.33971666666667,
+        "longitude": -71.092655,
+        "altitude": 13.6,
+        "utm_easting": 327612.5280722168,
+        "utm_northing": 4689616.52941496,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532907.6008923,
+        "latitude": 42.33976833333333,
+        "longitude": -71.09269333333333,
+        "altitude": 13.4,
+        "utm_easting": 327609.5113382051,
+        "utm_northing": 4689622.344327527,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532908.5949233,
+        "latitude": 42.339823333333335,
+        "longitude": -71.092735,
+        "altitude": 13.2,
+        "utm_easting": 327606.2291168961,
+        "utm_northing": 4689628.536141498,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532909.596886,
+        "latitude": 42.33987833333333,
+        "longitude": -71.09278,
+        "altitude": 12.9,
+        "utm_easting": 327602.6722995882,
+        "utm_northing": 4689634.734715788,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532910.5989218,
+        "latitude": 42.339935,
+        "longitude": -71.09282166666667,
+        "altitude": 12.7,
+        "utm_easting": 327599.3946459012,
+        "utm_northing": 4689641.111604174,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532911.6009138,
+        "latitude": 42.33998833333333,
+        "longitude": -71.09286333333333,
+        "altitude": 12.8,
+        "utm_easting": 327596.1078881653,
+        "utm_northing": 4689647.118352822,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532912.5945423,
+        "latitude": 42.340043333333334,
+        "longitude": -71.092905,
+        "altitude": 12.8,
+        "utm_easting": 327592.82569166773,
+        "utm_northing": 4689653.310173987,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532913.5991926,
+        "latitude": 42.340095,
+        "longitude": -71.092945,
+        "altitude": 13.6,
+        "utm_easting": 327589.6716911542,
+        "utm_northing": 4689659.128475853,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532914.5938983,
+        "latitude": 42.340151666666664,
+        "longitude": -71.09298666666666,
+        "altitude": 13.9,
+        "utm_easting": 327586.3940621013,
+        "utm_northing": 4689665.505371235,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532915.6004038,
+        "latitude": 42.340205,
+        "longitude": -71.093025,
+        "altitude": 14.2,
+        "utm_easting": 327583.3819289728,
+        "utm_northing": 4689671.505367497,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532916.5933728,
+        "latitude": 42.34026,
+        "longitude": -71.09306333333333,
+        "altitude": 14.5,
+        "utm_easting": 327580.3743569812,
+        "utm_northing": 4689677.690436024,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532917.5983381,
+        "latitude": 42.340315,
+        "longitude": -71.09310333333333,
+        "altitude": 15.0,
+        "utm_easting": 327577.2294905301,
+        "utm_northing": 4689683.878885862,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532918.6004205,
+        "latitude": 42.34036833333333,
+        "longitude": -71.09314166666667,
+        "altitude": 15.1,
+        "utm_easting": 327574.217374156,
+        "utm_northing": 4689689.878886691,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532919.6012292,
+        "latitude": 42.340421666666664,
+        "longitude": -71.09317833333333,
+        "altitude": 15.5,
+        "utm_easting": 327571.34256316244,
+        "utm_northing": 4689695.87550909,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532920.601338,
+        "latitude": 42.34047666666667,
+        "longitude": -71.09321333333334,
+        "altitude": 15.6,
+        "utm_easting": 327568.60961319413,
+        "utm_northing": 4689702.053823646,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532921.5978904,
+        "latitude": 42.34053,
+        "longitude": -71.093245,
+        "altitude": 15.8,
+        "utm_easting": 327566.1467116502,
+        "utm_northing": 4689708.040308609,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532922.5958574,
+        "latitude": 42.340583333333335,
+        "longitude": -71.09327,
+        "altitude": 16.0,
+        "utm_easting": 327564.23301282205,
+        "utm_northing": 4689714.013274269,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532923.5994506,
+        "latitude": 42.340635,
+        "longitude": -71.09329166666667,
+        "altitude": 16.3,
+        "utm_easting": 327562.5893602972,
+        "utm_northing": 4689719.794409586,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532924.5969892,
+        "latitude": 42.34068833333333,
+        "longitude": -71.09330833333334,
+        "altitude": 16.4,
+        "utm_easting": 327561.36216500186,
+        "utm_northing": 4689725.750475751,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532925.6018286,
+        "latitude": 42.340738333333334,
+        "longitude": -71.093315,
+        "altitude": 16.2,
+        "utm_easting": 327560.9496548695,
+        "utm_northing": 4689731.316119707,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532926.5967596,
+        "latitude": 42.34077833333333,
+        "longitude": -71.09331166666666,
+        "altitude": 16.2,
+        "utm_easting": 327561.3336028875,
+        "utm_northing": 4689735.751058113,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532927.6033528,
+        "latitude": 42.340803333333334,
+        "longitude": -71.093305,
+        "altitude": 16.2,
+        "utm_easting": 327561.95114267827,
+        "utm_northing": 4689738.513599241,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532928.599068,
+        "latitude": 42.34082166666666,
+        "longitude": -71.093295,
+        "altitude": 16.5,
+        "utm_easting": 327562.8250552671,
+        "utm_northing": 4689740.529097042,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532929.5987632,
+        "latitude": 42.34084,
+        "longitude": -71.09328,
+        "altitude": 16.5,
+        "utm_easting": 327564.11086433264,
+        "utm_northing": 4689742.53445463,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532930.5964067,
+        "latitude": 42.340865,
+        "longitude": -71.09325666666666,
+        "altitude": 16.4,
+        "utm_easting": 327566.10139189166,
+        "utm_northing": 4689745.263195219,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532931.6017709,
+        "latitude": 42.340895,
+        "longitude": -71.093215,
+        "altitude": 16.3,
+        "utm_easting": 327569.61587364116,
+        "utm_northing": 4689748.509968571,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532932.6048336,
+        "latitude": 42.34092,
+        "longitude": -71.09315666666667,
+        "altitude": 16.3,
+        "utm_easting": 327574.48967237247,
+        "utm_northing": 4689751.167732107,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532933.6017604,
+        "latitude": 42.340943333333335,
+        "longitude": -71.09308833333333,
+        "altitude": 16.1,
+        "utm_easting": 327580.18270404544,
+        "utm_northing": 4689753.620149354,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532934.6050408,
+        "latitude": 42.340965,
+        "longitude": -71.09300833333333,
+        "altitude": 15.9,
+        "utm_easting": 327586.8322668804,
+        "utm_northing": 4689755.863842633,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532935.5995748,
+        "latitude": 42.34099166666667,
+        "longitude": -71.092925,
+        "altitude": 15.7,
+        "utm_easting": 327593.7700887256,
+        "utm_northing": 4689758.6559953885,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532936.601964,
+        "latitude": 42.34102166666667,
+        "longitude": -71.09284,
+        "altitude": 15.5,
+        "utm_easting": 327600.85431381175,
+        "utm_northing": 4689761.814917033,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532937.5967383,
+        "latitude": 42.34105666666667,
+        "longitude": -71.09275333333333,
+        "altitude": 15.4,
+        "utm_easting": 327608.0894958866,
+        "utm_northing": 4689765.525678758,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532938.5972548,
+        "latitude": 42.341095,
+        "longitude": -71.09266666666667,
+        "altitude": 15.2,
+        "utm_easting": 327615.333779774,
+        "utm_northing": 4689769.606589312,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532939.6045175,
+        "latitude": 42.34113166666667,
+        "longitude": -71.09258333333334,
+        "altitude": 15.0,
+        "utm_easting": 327622.29890366434,
+        "utm_northing": 4689773.509194297,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532940.601912,
+        "latitude": 42.341175,
+        "longitude": -71.092505,
+        "altitude": 14.8,
+        "utm_easting": 327628.8703428792,
+        "utm_northing": 4689778.162225671,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532941.5995276,
+        "latitude": 42.34121666666667,
+        "longitude": -71.09242666666667,
+        "altitude": 14.7,
+        "utm_easting": 327635.4372189399,
+        "utm_northing": 4689782.6301922,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532942.5991182,
+        "latitude": 42.341258333333336,
+        "longitude": -71.09235166666667,
+        "altitude": 14.6,
+        "utm_easting": 327641.72949040507,
+        "utm_northing": 4689787.104921867,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532943.5967338,
+        "latitude": 42.341301666666666,
+        "longitude": -71.09227833333334,
+        "altitude": 14.5,
+        "utm_easting": 327647.8890098246,
+        "utm_northing": 4689791.768106245,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532944.599394,
+        "latitude": 42.34135166666667,
+        "longitude": -71.09221333333333,
+        "altitude": 15.2,
+        "utm_easting": 327653.38024722424,
+        "utm_northing": 4689797.1884708395,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532945.5978103,
+        "latitude": 42.34139833333333,
+        "longitude": -71.09215,
+        "altitude": 15.1,
+        "utm_easting": 327658.72507096623,
+        "utm_northing": 4689802.242076241,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532946.6045883,
+        "latitude": 42.34144333333333,
+        "longitude": -71.09209666666666,
+        "altitude": 15.1,
+        "utm_easting": 327663.2415475192,
+        "utm_northing": 4689807.130883858,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532947.6016922,
+        "latitude": 42.34148166666667,
+        "longitude": -71.09205333333334,
+        "altitude": 15.0,
+        "utm_easting": 327666.9160183164,
+        "utm_northing": 4689811.299679791,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532948.6001306,
+        "latitude": 42.34151,
+        "longitude": -71.09202,
+        "altitude": 14.9,
+        "utm_easting": 327669.7393789928,
+        "utm_northing": 4689814.378321205,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532949.601233,
+        "latitude": 42.34153,
+        "longitude": -71.09199666666666,
+        "altitude": 14.8,
+        "utm_easting": 327671.71618536336,
+        "utm_northing": 4689816.551877914,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532950.6018088,
+        "latitude": 42.341543333333334,
+        "longitude": -71.09198166666667,
+        "altitude": 14.8,
+        "utm_easting": 327672.98828979733,
+        "utm_northing": 4689818.002042018,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532951.6013079,
+        "latitude": 42.34155,
+        "longitude": -71.09197333333333,
+        "altitude": 14.8,
+        "utm_easting": 327673.69299053226,
+        "utm_northing": 4689818.725435153,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532952.5948727,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196833333333,
+        "altitude": 14.9,
+        "utm_easting": 327674.1094361766,
+        "utm_northing": 4689818.900371965,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532953.5999024,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532954.597301,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532955.5946436,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532956.602077,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532957.6021411,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532958.6033163,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532959.6047683,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532960.6000612,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532961.5988166,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532962.5989943,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532963.5947707,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532964.593752,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532965.596292,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532966.5937243,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532967.6010273,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532968.5959258,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532969.5992196,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532970.5997968,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532971.6047213,
+        "latitude": 42.34155166666667,
+        "longitude": -71.09196666666666,
+        "altitude": 14.9,
+        "utm_easting": 327674.2467335969,
+        "utm_northing": 4689818.89699398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532972.596785,
+        "latitude": 42.341561666666664,
+        "longitude": -71.09195833333334,
+        "altitude": 15.0,
+        "utm_easting": 327674.9605408218,
+        "utm_northing": 4689819.99052881,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532973.5995808,
+        "latitude": 42.341573333333336,
+        "longitude": -71.09195166666667,
+        "altitude": 15.0,
+        "utm_easting": 327675.54160380363,
+        "utm_northing": 4689821.272512457,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532974.5991552,
+        "latitude": 42.34161,
+        "longitude": -71.09193,
+        "altitude": 15.0,
+        "utm_easting": 327677.4266421611,
+        "utm_northing": 4689825.300156521,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532975.5973985,
+        "latitude": 42.34165333333333,
+        "longitude": -71.09190166666667,
+        "altitude": 14.9,
+        "utm_easting": 327679.87908031733,
+        "utm_northing": 4689830.054572664,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532976.5993247,
+        "latitude": 42.341701666666665,
+        "longitude": -71.09187,
+        "altitude": 14.9,
+        "utm_easting": 327682.6197690919,
+        "utm_northing": 4689835.357446303,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532977.6039917,
+        "latitude": 42.34175833333333,
+        "longitude": -71.09183333333333,
+        "altitude": 14.7,
+        "utm_easting": 327685.7951104375,
+        "utm_northing": 4689841.575541565,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532978.601947,
+        "latitude": 42.341818333333336,
+        "longitude": -71.09179333333333,
+        "altitude": 14.6,
+        "utm_easting": 327689.2541462409,
+        "utm_northing": 4689848.157024323,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532979.6018898,
+        "latitude": 42.341883333333335,
+        "longitude": -71.09175333333333,
+        "altitude": 14.7,
+        "utm_easting": 327692.7268347627,
+        "utm_northing": 4689855.293721039,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532980.6045387,
+        "latitude": 42.341953333333336,
+        "longitude": -71.09171333333333,
+        "altitude": 14.7,
+        "utm_easting": 327696.21317527,
+        "utm_northing": 4689862.985631733,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532981.602978,
+        "latitude": 42.342025,
+        "longitude": -71.091675,
+        "altitude": 14.7,
+        "utm_easting": 327699.5667650958,
+        "utm_northing": 4689870.8659923365,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532982.5970178,
+        "latitude": 42.342095,
+        "longitude": -71.091645,
+        "altitude": 14.7,
+        "utm_easting": 327702.22931414,
+        "utm_northing": 4689878.578170941,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532983.6043746,
+        "latitude": 42.342165,
+        "longitude": -71.091615,
+        "altitude": 15.0,
+        "utm_easting": 327704.89185794326,
+        "utm_northing": 4689886.290350473,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532984.5972233,
+        "latitude": 42.342236666666665,
+        "longitude": -71.09159,
+        "altitude": 15.0,
+        "utm_easting": 327707.14706134575,
+        "utm_northing": 4689894.197733872,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532985.596837,
+        "latitude": 42.342308333333335,
+        "longitude": -71.09156666666667,
+        "altitude": 15.0,
+        "utm_easting": 327709.2649645632,
+        "utm_northing": 4689902.108495288,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532986.6017556,
+        "latitude": 42.342385,
+        "longitude": -71.09154833333334,
+        "altitude": 15.1,
+        "utm_easting": 327710.98463444645,
+        "utm_northing": 4689910.584601655,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532987.5988653,
+        "latitude": 42.342463333333335,
+        "longitude": -71.09153,
+        "altitude": 15.1,
+        "utm_easting": 327712.7088534646,
+        "utm_northing": 4689919.245779235,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532988.6017103,
+        "latitude": 42.342545,
+        "longitude": -71.09151666666666,
+        "altitude": 15.2,
+        "utm_easting": 327714.030288237,
+        "utm_northing": 4689928.287230641,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532989.5994496,
+        "latitude": 42.34262666666667,
+        "longitude": -71.091505,
+        "altitude": 15.1,
+        "utm_easting": 327715.2144254389,
+        "utm_northing": 4689937.332059567,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532990.5968046,
+        "latitude": 42.342706666666665,
+        "longitude": -71.091495,
+        "altitude": 15.0,
+        "utm_easting": 327716.2567131575,
+        "utm_northing": 4689946.195195143,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532991.6017566,
+        "latitude": 42.34278833333333,
+        "longitude": -71.091485,
+        "altitude": 14.8,
+        "utm_easting": 327717.3035515536,
+        "utm_northing": 4689955.2434017295,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532992.604131,
+        "latitude": 42.342866666666666,
+        "longitude": -71.091475,
+        "altitude": 14.6,
+        "utm_easting": 327718.34128333256,
+        "utm_northing": 4689963.921466879,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532993.599975,
+        "latitude": 42.34294,
+        "longitude": -71.09146,
+        "altitude": 14.4,
+        "utm_easting": 327719.777239349,
+        "utm_northing": 4689972.034188198,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532994.5989807,
+        "latitude": 42.34300666666667,
+        "longitude": -71.09144333333333,
+        "altitude": 14.2,
+        "utm_easting": 327721.3322775571,
+        "utm_northing": 4689979.403249368,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532995.6014936,
+        "latitude": 42.343065,
+        "longitude": -71.091425,
+        "altitude": 14.2,
+        "utm_easting": 327723.0018455601,
+        "utm_northing": 4689985.843579619,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532996.5965955,
+        "latitude": 42.34312,
+        "longitude": -71.09140333333333,
+        "altitude": 14.1,
+        "utm_easting": 327724.9368943598,
+        "utm_northing": 4689991.907014402,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532997.5967093,
+        "latitude": 42.34317333333333,
+        "longitude": -71.09138166666666,
+        "altitude": 14.5,
+        "utm_easting": 327726.8673879578,
+        "utm_northing": 4689997.785378845,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532998.6017492,
+        "latitude": 42.343225,
+        "longitude": -71.09135666666667,
+        "altitude": 14.6,
+        "utm_easting": 327729.0679140182,
+        "utm_northing": 4690003.471918912,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729532999.6040387,
+        "latitude": 42.34327666666667,
+        "longitude": -71.09133166666666,
+        "altitude": 14.5,
+        "utm_easting": 327731.26843684306,
+        "utm_northing": 4690009.15845961,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533000.601763,
+        "latitude": 42.34332666666667,
+        "longitude": -71.09130666666667,
+        "altitude": 14.3,
+        "utm_easting": 327733.4644043352,
+        "utm_northing": 4690014.659930116,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533001.605208,
+        "latitude": 42.34337333333333,
+        "longitude": -71.09127666666667,
+        "altitude": 14.4,
+        "utm_easting": 327736.0631449384,
+        "utm_northing": 4690019.781128905,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533002.6017067,
+        "latitude": 42.34342,
+        "longitude": -71.09124333333334,
+        "altitude": 14.4,
+        "utm_easting": 327738.9364686763,
+        "utm_northing": 4690024.89557491,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533003.5936198,
+        "latitude": 42.343468333333334,
+        "longitude": -71.09120666666666,
+        "altitude": 14.4,
+        "utm_easting": 327742.08892682486,
+        "utm_northing": 4690030.18833928,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533004.6018662,
+        "latitude": 42.343515,
+        "longitude": -71.09116833333333,
+        "altitude": 14.3,
+        "utm_easting": 327745.374121778,
+        "utm_northing": 4690035.292657416,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533005.5974338,
+        "latitude": 42.343563333333336,
+        "longitude": -71.09112666666667,
+        "altitude": 14.3,
+        "utm_easting": 327748.9384499465,
+        "utm_northing": 4690040.575294521,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533006.59376,
+        "latitude": 42.34361166666667,
+        "longitude": -71.091085,
+        "altitude": 14.2,
+        "utm_easting": 327752.502772964,
+        "utm_northing": 4690045.857933322,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533007.6014066,
+        "latitude": 42.34365666666667,
+        "longitude": -71.09104333333333,
+        "altitude": 14.2,
+        "utm_easting": 327756.0579877397,
+        "utm_northing": 4690050.770432147,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533008.596315,
+        "latitude": 42.3437,
+        "longitude": -71.09100666666667,
+        "altitude": 14.2,
+        "utm_easting": 327759.19676805736,
+        "utm_northing": 4690055.507991187,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533009.601424,
+        "latitude": 42.343738333333334,
+        "longitude": -71.09097333333334,
+        "altitude": 14.2,
+        "utm_easting": 327762.04730484035,
+        "utm_northing": 4690059.697091833,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533010.5990357,
+        "latitude": 42.34377333333333,
+        "longitude": -71.09094833333333,
+        "altitude": 14.2,
+        "utm_easting": 327764.2022728439,
+        "utm_northing": 4690063.532933672,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533011.5999937,
+        "latitude": 42.34379833333333,
+        "longitude": -71.09093166666666,
+        "altitude": 14.3,
+        "utm_easting": 327765.64346825663,
+        "utm_northing": 4690066.275232744,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533012.5996208,
+        "latitude": 42.34381333333333,
+        "longitude": -71.09092166666667,
+        "altitude": 14.2,
+        "utm_easting": 327766.50818499574,
+        "utm_northing": 4690067.920612321,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533013.6021688,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533014.5972435,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533015.602037,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533016.6021614,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533017.5985134,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533018.5968778,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533019.6047308,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533020.6021013,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533021.6022332,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533022.6018276,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533023.6041749,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533024.5968053,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533025.6048875,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533026.5968037,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533027.5968032,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533028.6020994,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533029.600713,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533030.6020975,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533031.5992613,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533032.5969727,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533033.5967875,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533034.5968919,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533035.5975728,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533036.6020353,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533037.6041312,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533038.5970519,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533039.5971096,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533040.6020267,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533041.6035633,
+        "latitude": 42.34381833333333,
+        "longitude": -71.09091833333333,
+        "altitude": 14.2,
+        "utm_easting": 327766.79642382474,
+        "utm_northing": 4690068.469072201,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533042.5972586,
+        "latitude": 42.343825,
+        "longitude": -71.09091666666667,
+        "altitude": 14.2,
+        "utm_easting": 327766.9519214345,
+        "utm_northing": 4690069.205979245,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533043.6042883,
+        "latitude": 42.34383166666667,
+        "longitude": -71.09091333333333,
+        "altitude": 14.2,
+        "utm_easting": 327767.2447114634,
+        "utm_northing": 4690069.93950998,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533044.597752,
+        "latitude": 42.34385,
+        "longitude": -71.090905,
+        "altitude": 14.2,
+        "utm_easting": 327767.9812375449,
+        "utm_northing": 4690071.958407712,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533045.6016095,
+        "latitude": 42.34387,
+        "longitude": -71.090895,
+        "altitude": 14.2,
+        "utm_easting": 327768.85960684967,
+        "utm_northing": 4690074.1590000745,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533046.596674,
+        "latitude": 42.343895,
+        "longitude": -71.090885,
+        "altitude": 14.2,
+        "utm_easting": 327769.7516293201,
+        "utm_northing": 4690076.91480506,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533047.603059,
+        "latitude": 42.34392,
+        "longitude": -71.09087333333333,
+        "altitude": 14.2,
+        "utm_easting": 327770.7809434183,
+        "utm_northing": 4690079.667233904,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533048.6013753,
+        "latitude": 42.34394666666667,
+        "longitude": -71.09086333333333,
+        "altitude": 14.2,
+        "utm_easting": 327771.6775157712,
+        "utm_northing": 4690082.608109957,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533049.6035323,
+        "latitude": 42.34397,
+        "longitude": -71.09085333333333,
+        "altitude": 14.2,
+        "utm_easting": 327772.56498514186,
+        "utm_northing": 4690085.178844428,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533050.5961723,
+        "latitude": 42.34399333333333,
+        "longitude": -71.09084333333334,
+        "altitude": 14.2,
+        "utm_easting": 327773.45245393063,
+        "utm_northing": 4690087.749579004,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533051.6012378,
+        "latitude": 42.344015,
+        "longitude": -71.09083166666667,
+        "altitude": 14.1,
+        "utm_easting": 327774.472663061,
+        "utm_northing": 4690090.131866658,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533052.5963721,
+        "latitude": 42.344033333333336,
+        "longitude": -71.09082,
+        "altitude": 14.0,
+        "utm_easting": 327775.4837693688,
+        "utm_northing": 4690092.144012762,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533053.59797,
+        "latitude": 42.34404833333333,
+        "longitude": -71.09080666666667,
+        "altitude": 14.1,
+        "utm_easting": 327776.6230649677,
+        "utm_northing": 4690093.7826411715,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533054.5958135,
+        "latitude": 42.34406166666667,
+        "longitude": -71.09079166666666,
+        "altitude": 14.2,
+        "utm_easting": 327777.89510095504,
+        "utm_northing": 4690095.232822795,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533055.601166,
+        "latitude": 42.34407,
+        "longitude": -71.09078,
+        "altitude": 14.2,
+        "utm_easting": 327778.8788995799,
+        "utm_northing": 4690096.13454429,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533056.596448,
+        "latitude": 42.344075,
+        "longitude": -71.09077166666667,
+        "altitude": 14.2,
+        "utm_easting": 327779.579012163,
+        "utm_northing": 4690096.672876382,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533057.5988827,
+        "latitude": 42.344076666666666,
+        "longitude": -71.09076833333333,
+        "altitude": 14.2,
+        "utm_easting": 327779.8581469696,
+        "utm_northing": 4690096.851195071,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533058.599176,
+        "latitude": 42.344078333333336,
+        "longitude": -71.09076666666667,
+        "altitude": 14.1,
+        "utm_easting": 327779.99998985656,
+        "utm_northing": 4690097.03288984,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533059.599462,
+        "latitude": 42.344078333333336,
+        "longitude": -71.09076666666667,
+        "altitude": 14.1,
+        "utm_easting": 327779.99998985656,
+        "utm_northing": 4690097.03288984,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533060.5964031,
+        "latitude": 42.344078333333336,
+        "longitude": -71.09076666666667,
+        "altitude": 14.1,
+        "utm_easting": 327779.99998985656,
+        "utm_northing": 4690097.03288984,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533061.6045606,
+        "latitude": 42.344078333333336,
+        "longitude": -71.09076666666667,
+        "altitude": 14.1,
+        "utm_easting": 327779.99998985656,
+        "utm_northing": 4690097.03288984,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533062.601724,
+        "latitude": 42.34408166666667,
+        "longitude": -71.09076,
+        "altitude": 14.1,
+        "utm_easting": 327780.55825940287,
+        "utm_northing": 4690097.389527257,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533063.5964963,
+        "latitude": 42.34408666666667,
+        "longitude": -71.09075,
+        "altitude": 14.1,
+        "utm_easting": 327781.3956636171,
+        "utm_northing": 4690097.924483464,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533064.6015506,
+        "latitude": 42.344095,
+        "longitude": -71.090735,
+        "altitude": 14.1,
+        "utm_easting": 327782.6540451504,
+        "utm_northing": 4690098.819453377,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533065.5974278,
+        "latitude": 42.34410166666667,
+        "longitude": -71.09071666666667,
+        "altitude": 14.1,
+        "utm_easting": 327784.18245918414,
+        "utm_northing": 4690099.522600671,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533066.6040435,
+        "latitude": 42.34411,
+        "longitude": -71.090695,
+        "altitude": 14.1,
+        "utm_easting": 327785.9900074002,
+        "utm_northing": 4690100.404067215,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533067.6009986,
+        "latitude": 42.344115,
+        "longitude": -71.09066333333334,
+        "altitude": 14.1,
+        "utm_easting": 327788.6122045228,
+        "utm_northing": 4690100.895137033,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533068.599188,
+        "latitude": 42.344115,
+        "longitude": -71.09062666666667,
+        "altitude": 14.1,
+        "utm_easting": 327791.632624631,
+        "utm_northing": 4690100.820867735,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533069.6037269,
+        "latitude": 42.34410666666667,
+        "longitude": -71.09058666666667,
+        "altitude": 14.1,
+        "utm_easting": 327794.90487541823,
+        "utm_northing": 4690099.8144939495,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533070.601757,
+        "latitude": 42.34408833333333,
+        "longitude": -71.090545,
+        "altitude": 14.0,
+        "utm_easting": 327798.28711594,
+        "utm_northing": 4690097.694320949,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533071.6022775,
+        "latitude": 42.34406833333333,
+        "longitude": -71.09050333333333,
+        "altitude": 14.0,
+        "utm_easting": 327801.66480806447,
+        "utm_northing": 4690095.389078808,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533072.5965843,
+        "latitude": 42.344046666666664,
+        "longitude": -71.090465,
+        "altitude": 14.0,
+        "utm_easting": 327804.763368124,
+        "utm_northing": 4690092.905518689,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533073.5990186,
+        "latitude": 42.344028333333334,
+        "longitude": -71.090425,
+        "altitude": 14.0,
+        "utm_easting": 327808.0083228541,
+        "utm_northing": 4690090.788726176,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533074.5965796,
+        "latitude": 42.34401,
+        "longitude": -71.090385,
+        "altitude": 13.9,
+        "utm_easting": 327811.25327951147,
+        "utm_northing": 4690088.671935228,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533075.5966508,
+        "latitude": 42.343995,
+        "longitude": -71.090345,
+        "altitude": 13.8,
+        "utm_easting": 327814.5073382044,
+        "utm_northing": 4690086.925287523,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533076.60156,
+        "latitude": 42.343983333333334,
+        "longitude": -71.090305,
+        "altitude": 13.5,
+        "utm_easting": 327817.77049840026,
+        "utm_northing": 4690085.5487830555,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533077.597523,
+        "latitude": 42.343975,
+        "longitude": -71.09026666666666,
+        "altitude": 13.3,
+        "utm_easting": 327820.9054674498,
+        "utm_northing": 4690084.5457970835,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533078.6038923,
+        "latitude": 42.34396666666667,
+        "longitude": -71.09023,
+        "altitude": 13.2,
+        "utm_easting": 327823.90314518486,
+        "utm_northing": 4690083.546187745,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533079.6043105,
+        "latitude": 42.343961666666665,
+        "longitude": -71.09019833333333,
+        "altitude": 13.0,
+        "utm_easting": 327826.49804669985,
+        "utm_northing": 4690082.926846835,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533080.59611,
+        "latitude": 42.343956666666664,
+        "longitude": -71.09017166666666,
+        "altitude": 13.0,
+        "utm_easting": 327828.6810721334,
+        "utm_northing": 4690082.317632219,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533081.5961013,
+        "latitude": 42.343955,
+        "longitude": -71.09014833333333,
+        "altitude": 12.9,
+        "utm_easting": 327830.5986128078,
+        "utm_northing": 4690082.085310104,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533082.6016061,
+        "latitude": 42.34395166666667,
+        "longitude": -71.09012666666666,
+        "altitude": 12.9,
+        "utm_easting": 327832.37431183417,
+        "utm_northing": 4690081.6712927185,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533083.6027691,
+        "latitude": 42.34394833333333,
+        "longitude": -71.090105,
+        "altitude": 12.8,
+        "utm_easting": 327834.15001104766,
+        "utm_northing": 4690081.257275789,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533084.596565,
+        "latitude": 42.343945,
+        "longitude": -71.09008333333334,
+        "altitude": 12.8,
+        "utm_easting": 327835.9257104483,
+        "utm_northing": 4690080.843259318,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533085.604575,
+        "latitude": 42.34394,
+        "longitude": -71.09006333333333,
+        "altitude": 12.6,
+        "utm_easting": 327837.55956840515,
+        "utm_northing": 4690080.247547404,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533086.5988076,
+        "latitude": 42.34393166666667,
+        "longitude": -71.09004,
+        "altitude": 12.6,
+        "utm_easting": 327839.4589122749,
+        "utm_northing": 4690079.2749444125,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533087.6052473,
+        "latitude": 42.343916666666665,
+        "longitude": -71.09001666666667,
+        "altitude": 12.7,
+        "utm_easting": 327841.3400593226,
+        "utm_northing": 4690077.562058624,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533088.598886,
+        "latitude": 42.343896666666666,
+        "longitude": -71.089995,
+        "altitude": 12.8,
+        "utm_easting": 327843.0702671651,
+        "utm_northing": 4690075.297335704,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533089.6008458,
+        "latitude": 42.343871666666665,
+        "longitude": -71.08998166666667,
+        "altitude": 12.5,
+        "utm_easting": 327844.1003667171,
+        "utm_northing": 4690072.494274736,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533090.6017087,
+        "latitude": 42.34384,
+        "longitude": -71.08997833333333,
+        "altitude": 12.4,
+        "utm_easting": 327844.28851579234,
+        "utm_northing": 4690068.971179372,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533091.6041908,
+        "latitude": 42.343806666666666,
+        "longitude": -71.08998,
+        "altitude": 12.1,
+        "utm_easting": 327844.0602384971,
+        "utm_northing": 4690065.273137591,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533092.6016262,
+        "latitude": 42.34377,
+        "longitude": -71.089985,
+        "altitude": 11.8,
+        "utm_easting": 327843.54827748996,
+        "utm_northing": 4690061.211703785,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533093.5963576,
+        "latitude": 42.34373166666666,
+        "longitude": -71.08999333333334,
+        "altitude": 11.6,
+        "utm_easting": 327842.75718150823,
+        "utm_northing": 4690056.9719488295,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533094.5935848,
+        "latitude": 42.34369,
+        "longitude": -71.09000166666667,
+        "altitude": 11.4,
+        "utm_easting": 327841.95698621334,
+        "utm_northing": 4690052.362052312,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533095.599599,
+        "latitude": 42.343646666666665,
+        "longitude": -71.09001,
+        "altitude": 11.2,
+        "utm_easting": 327841.15224080347,
+        "utm_northing": 4690047.567085061,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533096.5964255,
+        "latitude": 42.343605,
+        "longitude": -71.09001833333333,
+        "altitude": 11.0,
+        "utm_easting": 327840.3520438585,
+        "utm_northing": 4690042.957188728,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533097.6066124,
+        "latitude": 42.343565,
+        "longitude": -71.090025,
+        "altitude": 10.9,
+        "utm_easting": 327839.6936884371,
+        "utm_northing": 4690038.52898844,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533098.5959086,
+        "latitude": 42.34353,
+        "longitude": -71.09003333333334,
+        "altitude": 10.6,
+        "utm_easting": 327838.9116872983,
+        "utm_northing": 4690034.659375562,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533099.5965016,
+        "latitude": 42.34350166666667,
+        "longitude": -71.09004,
+        "altitude": 10.4,
+        "utm_easting": 327838.28517601814,
+        "utm_northing": 4690031.526671156,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533100.600434,
+        "latitude": 42.34347666666667,
+        "longitude": -71.09004666666667,
+        "altitude": 10.0,
+        "utm_easting": 327837.6677630034,
+        "utm_northing": 4690028.764108445,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533101.5994978,
+        "latitude": 42.343455,
+        "longitude": -71.09005166666667,
+        "altitude": 9.7,
+        "utm_easting": 327837.1967415813,
+        "utm_northing": 4690026.368312508,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533102.5972629,
+        "latitude": 42.343435,
+        "longitude": -71.090055,
+        "altitude": 9.4,
+        "utm_easting": 327836.8675625786,
+        "utm_northing": 4690024.154212507,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533103.5964584,
+        "latitude": 42.34341166666667,
+        "longitude": -71.09006166666667,
+        "altitude": 9.0,
+        "utm_easting": 327836.2546979635,
+        "utm_northing": 4690021.576720732,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533104.59411,
+        "latitude": 42.34338666666667,
+        "longitude": -71.09006833333333,
+        "altitude": 8.6,
+        "utm_easting": 327835.637283574,
+        "utm_northing": 4690018.81415819,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533105.5939834,
+        "latitude": 42.343355,
+        "longitude": -71.09007833333334,
+        "altitude": 8.2,
+        "utm_easting": 327834.7270841899,
+        "utm_northing": 4690015.318062333,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533106.593377,
+        "latitude": 42.343318333333336,
+        "longitude": -71.09008833333333,
+        "altitude": 7.8,
+        "utm_easting": 327833.80323572457,
+        "utm_northing": 4690011.266754137,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533107.6005428,
+        "latitude": 42.34327666666667,
+        "longitude": -71.09009333333333,
+        "altitude": 7.5,
+        "utm_easting": 327833.27761894383,
+        "utm_northing": 4690006.650108669,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533108.5984437,
+        "latitude": 42.34323333333333,
+        "longitude": -71.090105,
+        "altitude": 7.2,
+        "utm_easting": 327832.19827730034,
+        "utm_northing": 4690001.861892397,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533109.6013193,
+        "latitude": 42.34318833333333,
+        "longitude": -71.09011833333334,
+        "altitude": 6.8,
+        "utm_easting": 327830.97709110833,
+        "utm_northing": 4689996.891980482,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533110.5990252,
+        "latitude": 42.34314333333333,
+        "longitude": -71.09013166666666,
+        "altitude": 6.4,
+        "utm_easting": 327829.7559034574,
+        "utm_northing": 4689991.922068767,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533111.599246,
+        "latitude": 42.34310166666667,
+        "longitude": -71.090145,
+        "altitude": 5.9,
+        "utm_easting": 327828.5438134194,
+        "utm_northing": 4689987.322298871,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533112.5989788,
+        "latitude": 42.34306333333333,
+        "longitude": -71.09015666666667,
+        "altitude": 5.4,
+        "utm_easting": 327827.47811526235,
+        "utm_northing": 4689983.08929571,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533113.6034756,
+        "latitude": 42.34302666666667,
+        "longitude": -71.09016333333334,
+        "altitude": 4.8,
+        "utm_easting": 327826.82884816785,
+        "utm_northing": 4689979.031238237,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533114.5966358,
+        "latitude": 42.34299166666667,
+        "longitude": -71.090165,
+        "altitude": 4.3,
+        "utm_easting": 327826.59601289354,
+        "utm_northing": 4689975.148126356,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533115.596421,
+        "latitude": 42.342955,
+        "longitude": -71.09016666666666,
+        "altitude": 4.0,
+        "utm_easting": 327826.3586279526,
+        "utm_northing": 4689971.07994369,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533116.5931015,
+        "latitude": 42.34291833333333,
+        "longitude": -71.09018,
+        "altitude": 3.5,
+        "utm_easting": 327825.16018193646,
+        "utm_northing": 4689967.035386768,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533117.5934613,
+        "latitude": 42.34288166666666,
+        "longitude": -71.09020166666667,
+        "altitude": 3.0,
+        "utm_easting": 327823.27526218107,
+        "utm_northing": 4689963.007705738,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533118.5962079,
+        "latitude": 42.342845,
+        "longitude": -71.09022333333333,
+        "altitude": 2.5,
+        "utm_easting": 327821.39034041704,
+        "utm_northing": 4689958.980025174,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533119.598305,
+        "latitude": 42.34280833333333,
+        "longitude": -71.09024,
+        "altitude": 2.0,
+        "utm_easting": 327819.91730064433,
+        "utm_northing": 4689954.942219441,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533120.5938456,
+        "latitude": 42.342773333333334,
+        "longitude": -71.09025333333334,
+        "altitude": 1.4,
+        "utm_easting": 327818.7233985823,
+        "utm_northing": 4689951.082734331,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533121.6010668,
+        "latitude": 42.34273666666667,
+        "longitude": -71.090265,
+        "altitude": 0.7,
+        "utm_easting": 327817.662240417,
+        "utm_northing": 4689947.034803358,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533122.6021163,
+        "latitude": 42.34269666666667,
+        "longitude": -71.09027833333333,
+        "altitude": 0.1,
+        "utm_easting": 327816.4546867086,
+        "utm_northing": 4689942.620106199,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533123.5960634,
+        "latitude": 42.342655,
+        "longitude": -71.09029166666667,
+        "altitude": -0.5,
+        "utm_easting": 327815.2425818666,
+        "utm_northing": 4689938.020338431,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533124.595903,
+        "latitude": 42.34261,
+        "longitude": -71.090305,
+        "altitude": -1.0,
+        "utm_easting": 327814.0213759733,
+        "utm_northing": 4689933.050429263,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533125.6001968,
+        "latitude": 42.342565,
+        "longitude": -71.090315,
+        "altitude": -1.3,
+        "utm_easting": 327813.0747590106,
+        "utm_northing": 4689928.073769635,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533126.598689,
+        "latitude": 42.34251666666667,
+        "longitude": -71.09032666666667,
+        "altitude": -1.4,
+        "utm_easting": 327811.98174591316,
+        "utm_northing": 4689922.730343883,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533127.6010456,
+        "latitude": 42.34247,
+        "longitude": -71.09034333333334,
+        "altitude": -1.5,
+        "utm_easting": 327810.48139515583,
+        "utm_northing": 4689917.58211519,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533128.603883,
+        "latitude": 42.342423333333336,
+        "longitude": -71.09035833333333,
+        "altitude": -1.4,
+        "utm_easting": 327809.1183379862,
+        "utm_northing": 4689912.430511398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533129.6043134,
+        "latitude": 42.34238,
+        "longitude": -71.09037333333333,
+        "altitude": -1.8,
+        "utm_easting": 327807.764379048,
+        "utm_northing": 4689907.649049438,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533130.6048367,
+        "latitude": 42.342335,
+        "longitude": -71.090385,
+        "altitude": -2.4,
+        "utm_easting": 327806.6804599021,
+        "utm_northing": 4689902.675766045,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533131.6054804,
+        "latitude": 42.34229166666667,
+        "longitude": -71.09039666666666,
+        "altitude": -2.8,
+        "utm_easting": 327805.6010895068,
+        "utm_northing": 4689897.887553604,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533132.6041698,
+        "latitude": 42.34225,
+        "longitude": -71.09041166666667,
+        "altitude": -3.2,
+        "utm_easting": 327804.25167615723,
+        "utm_northing": 4689893.291163062,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533133.601662,
+        "latitude": 42.34221,
+        "longitude": -71.09043,
+        "altitude": -3.6,
+        "utm_easting": 327802.63221939706,
+        "utm_northing": 4689888.88659456,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533134.6040425,
+        "latitude": 42.34216833333333,
+        "longitude": -71.090445,
+        "altitude": -3.6,
+        "utm_easting": 327801.2828028051,
+        "utm_northing": 4689884.290204543,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533135.599208,
+        "latitude": 42.34213166666667,
+        "longitude": -71.09046166666667,
+        "altitude": -3.8,
+        "utm_easting": 327799.80973895243,
+        "utm_northing": 4689880.252402682,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533136.598837,
+        "latitude": 42.342095,
+        "longitude": -71.09048333333334,
+        "altitude": -4.1,
+        "utm_easting": 327797.92478490307,
+        "utm_northing": 4689876.224727875,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533137.6064053,
+        "latitude": 42.342058333333334,
+        "longitude": -71.090505,
+        "altitude": -4.4,
+        "utm_easting": 327796.039828845,
+        "utm_northing": 4689872.197053533,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533138.5985014,
+        "latitude": 42.34202166666667,
+        "longitude": -71.09052833333334,
+        "altitude": -4.8,
+        "utm_easting": 327794.0175743939,
+        "utm_northing": 4689868.172755322,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533139.606639,
+        "latitude": 42.34198333333333,
+        "longitude": -71.09055333333333,
+        "altitude": -5.0,
+        "utm_easting": 327791.85347098217,
+        "utm_northing": 4689863.9667625725,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533140.5984147,
+        "latitude": 42.34194333333333,
+        "longitude": -71.09057833333334,
+        "altitude": -5.3,
+        "utm_easting": 327789.6848147523,
+        "utm_northing": 4689859.57569966,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533141.5950325,
+        "latitude": 42.341905,
+        "longitude": -71.09060333333333,
+        "altitude": -5.5,
+        "utm_easting": 327787.5207064247,
+        "utm_northing": 4689855.369708149,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533142.6009126,
+        "latitude": 42.34186666666667,
+        "longitude": -71.09063,
+        "altitude": -5.8,
+        "utm_easting": 327785.21929894295,
+        "utm_northing": 4689851.1670930805,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533143.6025038,
+        "latitude": 42.34183,
+        "longitude": -71.09065833333334,
+        "altitude": -6.1,
+        "utm_easting": 327782.7851426046,
+        "utm_northing": 4689847.152925365,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533144.5956664,
+        "latitude": 42.341795,
+        "longitude": -71.090685,
+        "altitude": -6.4,
+        "utm_easting": 327780.492831102,
+        "utm_northing": 4689843.320453301,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533145.5976627,
+        "latitude": 42.34176,
+        "longitude": -71.09071166666666,
+        "altitude": -6.9,
+        "utm_easting": 327778.20051722,
+        "utm_northing": 4689839.487981935,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533146.5940428,
+        "latitude": 42.341726666666666,
+        "longitude": -71.09073666666667,
+        "altitude": -7.4,
+        "utm_easting": 327776.05004869564,
+        "utm_northing": 4689835.837206044,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533147.5942218,
+        "latitude": 42.34169333333333,
+        "longitude": -71.09076166666667,
+        "altitude": -7.7,
+        "utm_easting": 327773.8995780521,
+        "utm_northing": 4689832.186430767,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533148.5946908,
+        "latitude": 42.341658333333335,
+        "longitude": -71.09078666666667,
+        "altitude": -7.8,
+        "utm_easting": 327771.7445544696,
+        "utm_northing": 4689828.350585327,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533149.6017425,
+        "latitude": 42.34162,
+        "longitude": -71.09081333333333,
+        "altitude": -8.0,
+        "utm_easting": 327769.4431296777,
+        "utm_northing": 4689824.14797507,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533150.6011548,
+        "latitude": 42.34158166666667,
+        "longitude": -71.09084166666666,
+        "altitude": -8.5,
+        "utm_easting": 327767.00440494134,
+        "utm_northing": 4689819.948741681,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533151.6035538,
+        "latitude": 42.341543333333334,
+        "longitude": -71.09087333333333,
+        "altitude": -8.9,
+        "utm_easting": 327764.2910825821,
+        "utm_northing": 4689815.756261509,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533152.6036303,
+        "latitude": 42.34150666666667,
+        "longitude": -71.09090166666667,
+        "altitude": -9.3,
+        "utm_easting": 327761.85690319445,
+        "utm_northing": 4689811.742100561,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533153.6035001,
+        "latitude": 42.34147333333333,
+        "longitude": -71.090925,
+        "altitude": -9.8,
+        "utm_easting": 327759.8437161172,
+        "utm_northing": 4689808.087953033,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533154.597593,
+        "latitude": 42.341438333333336,
+        "longitude": -71.09094666666667,
+        "altitude": -10.3,
+        "utm_easting": 327757.9632735725,
+        "utm_northing": 4689804.245358933,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533155.6039317,
+        "latitude": 42.341405,
+        "longitude": -71.09097333333334,
+        "altitude": -10.4,
+        "utm_easting": 327755.6754871016,
+        "utm_northing": 4689800.597965191,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533156.5985208,
+        "latitude": 42.341365,
+        "longitude": -71.090995,
+        "altitude": -9.8,
+        "utm_easting": 327753.7813868135,
+        "utm_northing": 4689796.200159812,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533157.597711,
+        "latitude": 42.341321666666666,
+        "longitude": -71.09101666666666,
+        "altitude": -9.5,
+        "utm_easting": 327751.8781817752,
+        "utm_northing": 4689791.432213362,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533158.6006942,
+        "latitude": 42.341285,
+        "longitude": -71.091035,
+        "altitude": -9.6,
+        "utm_easting": 327750.26777566865,
+        "utm_northing": 4689787.397797508,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533159.5953822,
+        "latitude": 42.341255,
+        "longitude": -71.091055,
+        "altitude": -9.9,
+        "utm_easting": 327748.5382752456,
+        "utm_northing": 4689784.107041574,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533160.605711,
+        "latitude": 42.341225,
+        "longitude": -71.09107333333333,
+        "altitude": -10.0,
+        "utm_easting": 327746.9460714198,
+        "utm_northing": 4689780.812909495,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533161.5993893,
+        "latitude": 42.34120166666667,
+        "longitude": -71.09109166666667,
+        "altitude": -10.0,
+        "utm_easting": 327745.37207194394,
+        "utm_northing": 4689778.259060821,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533162.6006248,
+        "latitude": 42.34117666666667,
+        "longitude": -71.091105,
+        "altitude": -10.2,
+        "utm_easting": 327744.20541459386,
+        "utm_northing": 4689775.510011931,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533163.6034806,
+        "latitude": 42.34115333333333,
+        "longitude": -71.09111666666666,
+        "altitude": -10.4,
+        "utm_easting": 327743.1806061709,
+        "utm_northing": 4689772.942657379,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533164.6009452,
+        "latitude": 42.34113,
+        "longitude": -71.09112833333333,
+        "altitude": -10.4,
+        "utm_easting": 327742.1557970643,
+        "utm_northing": 4689770.375302966,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533165.6005714,
+        "latitude": 42.34110833333333,
+        "longitude": -71.09114,
+        "altitude": -10.3,
+        "utm_easting": 327741.13553880673,
+        "utm_northing": 4689767.993019453,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533166.605559,
+        "latitude": 42.341085,
+        "longitude": -71.09115,
+        "altitude": -10.1,
+        "utm_easting": 327740.24802678643,
+        "utm_northing": 4689765.4222886525,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533167.605375,
+        "latitude": 42.34106166666667,
+        "longitude": -71.09115666666666,
+        "altitude": -9.5,
+        "utm_easting": 327739.6351111425,
+        "utm_northing": 4689762.844804607,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533168.598397,
+        "latitude": 42.341046666666664,
+        "longitude": -71.09115666666666,
+        "altitude": -9.2,
+        "utm_easting": 327739.59414706193,
+        "utm_northing": 4689761.179167731,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533169.6009297,
+        "latitude": 42.34104333333333,
+        "longitude": -71.091155,
+        "altitude": -8.2,
+        "utm_easting": 327739.72234245366,
+        "utm_northing": 4689760.805649534,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533170.6036253,
+        "latitude": 42.34104166666667,
+        "longitude": -71.09114833333334,
+        "altitude": -6.1,
+        "utm_easting": 327740.26698498655,
+        "utm_northing": 4689760.607072123,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533171.6037288,
+        "latitude": 42.34103666666667,
+        "longitude": -71.09114666666666,
+        "altitude": -5.0,
+        "utm_easting": 327740.3906288871,
+        "utm_northing": 4689760.048483175,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533172.6043038,
+        "latitude": 42.34103666666667,
+        "longitude": -71.09114666666666,
+        "altitude": -5.0,
+        "utm_easting": 327740.3906288871,
+        "utm_northing": 4689760.048483175,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533173.6062608,
+        "latitude": 42.34103666666667,
+        "longitude": -71.09114833333334,
+        "altitude": -5.7,
+        "utm_easting": 327740.2533303515,
+        "utm_northing": 4689760.0518598305,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533174.6014714,
+        "latitude": 42.34103,
+        "longitude": -71.091155,
+        "altitude": -6.0,
+        "utm_easting": 327739.68592997896,
+        "utm_northing": 4689759.325083425,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533175.5982397,
+        "latitude": 42.341005,
+        "longitude": -71.09116666666667,
+        "altitude": -6.2,
+        "utm_easting": 327738.6565663915,
+        "utm_northing": 4689756.572658715,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533176.6009364,
+        "latitude": 42.34097166666667,
+        "longitude": -71.09118166666667,
+        "altitude": -6.3,
+        "utm_easting": 327737.3298466925,
+        "utm_northing": 4689752.901633747,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533177.5954,
+        "latitude": 42.340936666666664,
+        "longitude": -71.09119333333334,
+        "altitude": -6.4,
+        "utm_easting": 327736.2731716101,
+        "utm_northing": 4689749.038784784,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533178.5956,
+        "latitude": 42.34090166666667,
+        "longitude": -71.09120166666666,
+        "altitude": -6.6,
+        "utm_easting": 327735.4910931845,
+        "utm_northing": 4689745.16918248,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533179.6030192,
+        "latitude": 42.34086666666666,
+        "longitude": -71.091205,
+        "altitude": -6.8,
+        "utm_easting": 327735.12091077375,
+        "utm_northing": 4689741.289450011,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533180.598245,
+        "latitude": 42.340833333333336,
+        "longitude": -71.091205,
+        "altitude": -6.9,
+        "utm_easting": 327735.02987773623,
+        "utm_northing": 4689737.588034833,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533181.6060414,
+        "latitude": 42.340801666666664,
+        "longitude": -71.091195,
+        "altitude": -7.1,
+        "utm_easting": 327735.76719068707,
+        "utm_northing": 4689734.051430005,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533182.598249,
+        "latitude": 42.34076833333334,
+        "longitude": -71.09117333333333,
+        "altitude": -7.2,
+        "utm_easting": 327737.4610467503,
+        "utm_northing": 4689730.306117613,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533183.5984888,
+        "latitude": 42.340738333333334,
+        "longitude": -71.09114333333333,
+        "altitude": -7.2,
+        "utm_easting": 327739.8505037313,
+        "utm_northing": 4689726.914063957,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533184.5984805,
+        "latitude": 42.34071,
+        "longitude": -71.09111333333334,
+        "altitude": -7.4,
+        "utm_easting": 327742.2445145481,
+        "utm_northing": 4689723.707081953,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533185.5950952,
+        "latitude": 42.34068166666667,
+        "longitude": -71.09108666666667,
+        "altitude": -7.6,
+        "utm_easting": 327744.3639290122,
+        "utm_northing": 4689720.5068539465,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533186.59564,
+        "latitude": 42.34065,
+        "longitude": -71.09106333333334,
+        "altitude": -7.9,
+        "utm_easting": 327746.19964409876,
+        "utm_northing": 4689716.943238176,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533187.6035125,
+        "latitude": 42.34062,
+        "longitude": -71.09104333333333,
+        "altitude": -8.0,
+        "utm_easting": 327747.76531356055,
+        "utm_northing": 4689713.57144667,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533188.6011183,
+        "latitude": 42.34059,
+        "longitude": -71.091025,
+        "altitude": -8.2,
+        "utm_easting": 327749.1936851266,
+        "utm_northing": 4689710.203032025,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533189.5988626,
+        "latitude": 42.340559999999996,
+        "longitude": -71.09101,
+        "altitude": -8.4,
+        "utm_easting": 327750.34745903464,
+        "utm_northing": 4689706.84137058,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533190.595517,
+        "latitude": 42.340531666666664,
+        "longitude": -71.091,
+        "altitude": -8.4,
+        "utm_easting": 327751.0938864298,
+        "utm_northing": 4689703.674909344,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533191.6045225,
+        "latitude": 42.34050333333333,
+        "longitude": -71.09098833333333,
+        "altitude": -8.5,
+        "utm_easting": 327751.97761430393,
+        "utm_northing": 4689700.505071829,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533192.600392,
+        "latitude": 42.340475,
+        "longitude": -71.09097666666666,
+        "altitude": -8.5,
+        "utm_easting": 327752.861343084,
+        "utm_northing": 4689697.335234462,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533193.5984564,
+        "latitude": 42.340448333333335,
+        "longitude": -71.090965,
+        "altitude": -8.5,
+        "utm_easting": 327753.74962386355,
+        "utm_northing": 4689694.350467992,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533194.6043324,
+        "latitude": 42.340423333333334,
+        "longitude": -71.09095333333333,
+        "altitude": -8.5,
+        "utm_easting": 327754.64245655935,
+        "utm_northing": 4689691.550772413,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533195.5959988,
+        "latitude": 42.34039833333333,
+        "longitude": -71.09094333333333,
+        "altitude": -8.5,
+        "utm_easting": 327755.39799012523,
+        "utm_northing": 4689688.7544533,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533196.6036146,
+        "latitude": 42.340376666666664,
+        "longitude": -71.09093166666666,
+        "altitude": -8.5,
+        "utm_easting": 327756.29992638546,
+        "utm_northing": 4689686.324899478,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533197.6014166,
+        "latitude": 42.340356666666665,
+        "longitude": -71.09092166666667,
+        "altitude": -8.7,
+        "utm_easting": 327757.0691143029,
+        "utm_northing": 4689684.083792825,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533198.6041627,
+        "latitude": 42.340336666666666,
+        "longitude": -71.090915,
+        "altitude": -8.9,
+        "utm_easting": 327757.56370265025,
+        "utm_northing": 4689681.849438815,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533199.6063044,
+        "latitude": 42.34032333333333,
+        "longitude": -71.09091333333333,
+        "altitude": -9.1,
+        "utm_easting": 327757.6645949435,
+        "utm_northing": 4689680.365496616,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533200.6039758,
+        "latitude": 42.34031,
+        "longitude": -71.09091,
+        "altitude": -9.3,
+        "utm_easting": 327757.9027874169,
+        "utm_northing": 4689678.878178159,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533201.5984821,
+        "latitude": 42.3403,
+        "longitude": -71.09090833333333,
+        "altitude": -9.6,
+        "utm_easting": 327758.01278178813,
+        "utm_northing": 4689677.764377455,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533202.6039999,
+        "latitude": 42.340295,
+        "longitude": -71.09090666666667,
+        "altitude": -9.8,
+        "utm_easting": 327758.1364290647,
+        "utm_northing": 4689677.205788975,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533203.6013553,
+        "latitude": 42.340291666666666,
+        "longitude": -71.09090333333333,
+        "altitude": -10.0,
+        "utm_easting": 327758.40192747035,
+        "utm_northing": 4689676.828894983,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533204.6004643,
+        "latitude": 42.34028833333333,
+        "longitude": -71.09090166666667,
+        "altitude": -10.3,
+        "utm_easting": 327758.5301257415,
+        "utm_northing": 4689676.455377254,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533205.6034617,
+        "latitude": 42.34028833333333,
+        "longitude": -71.09090166666667,
+        "altitude": -10.4,
+        "utm_easting": 327758.5301257415,
+        "utm_northing": 4689676.455377254,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533206.6007988,
+        "latitude": 42.340285,
+        "longitude": -71.0909,
+        "altitude": -10.8,
+        "utm_easting": 327758.6583240278,
+        "utm_northing": 4689676.081859526,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533207.6013124,
+        "latitude": 42.34028166666667,
+        "longitude": -71.09089666666667,
+        "altitude": -11.1,
+        "utm_easting": 327758.9238225097,
+        "utm_northing": 4689675.70496556,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533208.606328,
+        "latitude": 42.340273333333336,
+        "longitude": -71.09089333333333,
+        "altitude": -11.4,
+        "utm_easting": 327759.17566825,
+        "utm_northing": 4689674.772859383,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533209.6074224,
+        "latitude": 42.34025166666667,
+        "longitude": -71.09088166666666,
+        "altitude": -11.7,
+        "utm_easting": 327760.0776079728,
+        "utm_northing": 4689672.343306193,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533210.6006434,
+        "latitude": 42.340226666666666,
+        "longitude": -71.09086833333333,
+        "altitude": -12.1,
+        "utm_easting": 327761.10774694395,
+        "utm_northing": 4689669.540235472,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533211.6000478,
+        "latitude": 42.340201666666665,
+        "longitude": -71.090855,
+        "altitude": -12.6,
+        "utm_easting": 327762.13788681454,
+        "utm_northing": 4689666.73716494,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533212.6060526,
+        "latitude": 42.34017166666667,
+        "longitude": -71.09083833333334,
+        "altitude": -13.1,
+        "utm_easting": 327763.4289760215,
+        "utm_northing": 4689663.37213009,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533213.6059558,
+        "latitude": 42.34014166666667,
+        "longitude": -71.09082166666667,
+        "altitude": -13.5,
+        "utm_easting": 327764.7200665818,
+        "utm_northing": 4689660.00709553,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533214.6003954,
+        "latitude": 42.34010833333333,
+        "longitude": -71.090805,
+        "altitude": -13.8,
+        "utm_easting": 327766.0020570647,
+        "utm_northing": 4689656.271919793,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533215.6065638,
+        "latitude": 42.34007666666667,
+        "longitude": -71.09078833333334,
+        "altitude": -14.2,
+        "utm_easting": 327767.2885997334,
+        "utm_northing": 4689652.721815087,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533216.5986667,
+        "latitude": 42.340045,
+        "longitude": -71.09077333333333,
+        "altitude": -14.6,
+        "utm_easting": 327768.4378431445,
+        "utm_northing": 4689649.175086711,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533217.6055954,
+        "latitude": 42.34001,
+        "longitude": -71.09076,
+        "altitude": -14.9,
+        "utm_easting": 327769.44068586564,
+        "utm_northing": 4689645.261593131,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533218.597534,
+        "latitude": 42.339978333333335,
+        "longitude": -71.09074666666666,
+        "altitude": -15.1,
+        "utm_easting": 327770.4526310278,
+        "utm_northing": 4689641.71824121,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533219.6010306,
+        "latitude": 42.33994,
+        "longitude": -71.09073333333333,
+        "altitude": -15.6,
+        "utm_easting": 327771.4463751677,
+        "utm_northing": 4689637.434606571,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533220.6061246,
+        "latitude": 42.33987833333333,
+        "longitude": -71.09071166666666,
+        "altitude": -15.3,
+        "utm_easting": 327773.0629188395,
+        "utm_northing": 4689630.54310224,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533221.6071126,
+        "latitude": 42.339805,
+        "longitude": -71.09068166666667,
+        "altitude": -14.7,
+        "utm_easting": 327775.33411920373,
+        "utm_northing": 4689622.3392239,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533222.6058936,
+        "latitude": 42.33972333333333,
+        "longitude": -71.09064666666667,
+        "altitude": -13.9,
+        "utm_easting": 327777.994478035,
+        "utm_northing": 4689613.19986544,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533223.6047478,
+        "latitude": 42.339648333333336,
+        "longitude": -71.09060833333334,
+        "altitude": -13.4,
+        "utm_easting": 327780.9476488102,
+        "utm_northing": 4689604.794039652,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533224.6006954,
+        "latitude": 42.339575,
+        "longitude": -71.09057,
+        "altitude": -12.9,
+        "utm_easting": 327783.9053775476,
+        "utm_northing": 4689596.573286138,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533225.5975692,
+        "latitude": 42.33951,
+        "longitude": -71.09053666666667,
+        "altitude": -12.6,
+        "utm_easting": 327786.4739586759,
+        "utm_northing": 4689589.288014685,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533226.5980186,
+        "latitude": 42.33944833333334,
+        "longitude": -71.09050833333333,
+        "altitude": -12.2,
+        "utm_easting": 327788.63973971736,
+        "utm_northing": 4689582.383012637,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533227.603972,
+        "latitude": 42.33938833333333,
+        "longitude": -71.09048166666666,
+        "altitude": -12.0,
+        "utm_easting": 327790.6727733455,
+        "utm_northing": 4689575.666457721,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533228.600565,
+        "latitude": 42.339326666666665,
+        "longitude": -71.090455,
+        "altitude": -11.5,
+        "utm_easting": 327792.70126145903,
+        "utm_northing": 4689568.76483287,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533229.6053176,
+        "latitude": 42.33927166666667,
+        "longitude": -71.09042333333333,
+        "altitude": -11.1,
+        "utm_easting": 327795.15986047534,
+        "utm_northing": 4689562.593365214,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533230.605578,
+        "latitude": 42.33922,
+        "longitude": -71.090395,
+        "altitude": -10.8,
+        "utm_easting": 327797.3529586997,
+        "utm_northing": 4689556.798790842,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533231.6002967,
+        "latitude": 42.339166666666664,
+        "longitude": -71.09037,
+        "altitude": -10.2,
+        "utm_easting": 327799.26690600556,
+        "utm_northing": 4689550.825897361,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533232.5958107,
+        "latitude": 42.33911833333333,
+        "longitude": -71.09034666666666,
+        "altitude": -9.8,
+        "utm_easting": 327801.0572031151,
+        "utm_northing": 4689545.411591993,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533233.6072984,
+        "latitude": 42.33907166666667,
+        "longitude": -71.09032333333333,
+        "altitude": -9.5,
+        "utm_easting": 327802.8520528682,
+        "utm_northing": 4689540.182357906,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533234.6062214,
+        "latitude": 42.339025,
+        "longitude": -71.09030166666666,
+        "altitude": -9.3,
+        "utm_easting": 327804.5096026687,
+        "utm_northing": 4689534.956499663,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533235.5981066,
+        "latitude": 42.33898,
+        "longitude": -71.09028,
+        "altitude": -9.2,
+        "utm_easting": 327806.17170469736,
+        "utm_northing": 4689529.915712621,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533236.601121,
+        "latitude": 42.33893333333333,
+        "longitude": -71.09026,
+        "altitude": -9.0,
+        "utm_easting": 327807.6919568496,
+        "utm_northing": 4689524.693230584,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533237.5956104,
+        "latitude": 42.33888833333334,
+        "longitude": -71.09024,
+        "altitude": -8.9,
+        "utm_easting": 327809.21676093177,
+        "utm_northing": 4689519.655819676,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533238.6000972,
+        "latitude": 42.33884333333334,
+        "longitude": -71.09022166666666,
+        "altitude": -8.6,
+        "utm_easting": 327810.604264167,
+        "utm_northing": 4689514.621784338,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533239.5967324,
+        "latitude": 42.33879666666667,
+        "longitude": -71.09020333333333,
+        "altitude": -8.0,
+        "utm_easting": 327811.987220373,
+        "utm_northing": 4689509.402678677,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533240.5948408,
+        "latitude": 42.33875,
+        "longitude": -71.090185,
+        "altitude": -7.3,
+        "utm_easting": 327813.37017892883,
+        "utm_northing": 4689504.183573392,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533241.6016476,
+        "latitude": 42.33870833333334,
+        "longitude": -71.09016833333334,
+        "altitude": -7.5,
+        "utm_easting": 327814.62948384,
+        "utm_northing": 4689499.523055589,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533242.5999062,
+        "latitude": 42.338658333333335,
+        "longitude": -71.09015166666667,
+        "altitude": -6.2,
+        "utm_easting": 327815.8660448331,
+        "utm_northing": 4689493.9371846635,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533243.6006012,
+        "latitude": 42.33861666666667,
+        "longitude": -71.09013166666666,
+        "altitude": -6.0,
+        "utm_easting": 327817.39996135526,
+        "utm_northing": 4689489.269917503,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533244.5985577,
+        "latitude": 42.33857833333333,
+        "longitude": -71.09011,
+        "altitude": -5.7,
+        "utm_easting": 327819.0802821646,
+        "utm_northing": 4689484.969417185,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533245.5962079,
+        "latitude": 42.338541666666664,
+        "longitude": -71.09009166666667,
+        "altitude": -5.5,
+        "utm_easting": 327820.4905463152,
+        "utm_northing": 4689480.860737877,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533246.59569,
+        "latitude": 42.338505,
+        "longitude": -71.09007333333334,
+        "altitude": -5.3,
+        "utm_easting": 327821.90081228816,
+        "utm_northing": 4689476.752058926,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533247.5981092,
+        "latitude": 42.338465,
+        "longitude": -71.090055,
+        "altitude": -4.9,
+        "utm_easting": 327823.3019822181,
+        "utm_northing": 4689472.273238973,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533248.600136,
+        "latitude": 42.33842666666666,
+        "longitude": -71.09003666666666,
+        "altitude": -4.7,
+        "utm_easting": 327824.70770304126,
+        "utm_northing": 4689467.979490061,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533249.595465,
+        "latitude": 42.338386666666665,
+        "longitude": -71.09001833333333,
+        "altitude": -4.5,
+        "utm_easting": 327826.1088769255,
+        "utm_northing": 4689463.500670833,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533250.5952523,
+        "latitude": 42.338346666666666,
+        "longitude": -71.09,
+        "altitude": -4.3,
+        "utm_easting": 327827.5100528095,
+        "utm_northing": 4689459.021851968,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533251.6008573,
+        "latitude": 42.33831,
+        "longitude": -71.08998333333334,
+        "altitude": -4.1,
+        "utm_easting": 327828.7830237554,
+        "utm_northing": 4689454.916549557,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533252.6001003,
+        "latitude": 42.338275,
+        "longitude": -71.08996833333333,
+        "altitude": -3.9,
+        "utm_easting": 327829.9232405574,
+        "utm_northing": 4689450.999692834,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533253.5984185,
+        "latitude": 42.33824,
+        "longitude": -71.08995166666666,
+        "altitude": -3.4,
+        "utm_easting": 327831.20076341013,
+        "utm_northing": 4689447.079461666,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533254.5962818,
+        "latitude": 42.338208333333334,
+        "longitude": -71.08993666666667,
+        "altitude": -3.3,
+        "utm_easting": 327832.3500804687,
+        "utm_northing": 4689443.532746801,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533255.596033,
+        "latitude": 42.338175,
+        "longitude": -71.089925,
+        "altitude": -3.2,
+        "utm_easting": 327833.2202406833,
+        "utm_northing": 4689439.807710797,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533256.5956635,
+        "latitude": 42.33813833333333,
+        "longitude": -71.08991333333333,
+        "altitude": -3.0,
+        "utm_easting": 327834.08130477334,
+        "utm_northing": 4689435.712533615,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533257.5975392,
+        "latitude": 42.338095,
+        "longitude": -71.08990166666666,
+        "altitude": -2.9,
+        "utm_easting": 327834.92417576973,
+        "utm_northing": 4689430.877073922,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533258.6009672,
+        "latitude": 42.33805,
+        "longitude": -71.08989333333334,
+        "altitude": -2.8,
+        "utm_easting": 327835.48788958025,
+        "utm_northing": 4689425.86329292,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533259.6040432,
+        "latitude": 42.338,
+        "longitude": -71.08988833333333,
+        "altitude": -2.5,
+        "utm_easting": 327835.7633486237,
+        "utm_northing": 4689420.301049196,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533260.6005287,
+        "latitude": 42.33795666666666,
+        "longitude": -71.08988833333333,
+        "altitude": -2.5,
+        "utm_easting": 327835.6450868188,
+        "utm_northing": 4689415.489211939,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533261.6032798,
+        "latitude": 42.337916666666665,
+        "longitude": -71.089885,
+        "altitude": -2.2,
+        "utm_easting": 327835.81053280726,
+        "utm_northing": 4689411.040766877,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533262.6005647,
+        "latitude": 42.33788333333333,
+        "longitude": -71.08989,
+        "altitude": -1.9,
+        "utm_easting": 327835.30764628854,
+        "utm_northing": 4689407.349477398,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533263.601573,
+        "latitude": 42.337851666666666,
+        "longitude": -71.08989166666667,
+        "altitude": -1.8,
+        "utm_easting": 327835.08391885174,
+        "utm_northing": 4689403.836509437,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533264.6040359,
+        "latitude": 42.337831666666666,
+        "longitude": -71.08988,
+        "altitude": -1.5,
+        "utm_easting": 327835.99047508516,
+        "utm_northing": 4689401.592039455,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533265.5979214,
+        "latitude": 42.33781833333333,
+        "longitude": -71.089875,
+        "altitude": -1.4,
+        "utm_easting": 327836.3660036974,
+        "utm_northing": 4689400.101350481,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533266.5956328,
+        "latitude": 42.337806666666665,
+        "longitude": -71.08986833333333,
+        "altitude": -1.2,
+        "utm_easting": 327836.8833865314,
+        "utm_northing": 4689398.7923576385,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533267.5954032,
+        "latitude": 42.33779166666667,
+        "longitude": -71.08986333333333,
+        "altitude": -0.9,
+        "utm_easting": 327837.2543670675,
+        "utm_northing": 4689397.116598072,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533268.595737,
+        "latitude": 42.33777666666667,
+        "longitude": -71.08985833333334,
+        "altitude": -0.8,
+        "utm_easting": 327837.6253478114,
+        "utm_northing": 4689395.440838532,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533269.6023073,
+        "latitude": 42.337761666666665,
+        "longitude": -71.08985333333334,
+        "altitude": -0.6,
+        "utm_easting": 327837.9963287631,
+        "utm_northing": 4689393.7650790205,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533270.5956378,
+        "latitude": 42.33774666666667,
+        "longitude": -71.08984833333334,
+        "altitude": -0.3,
+        "utm_easting": 327838.3673099226,
+        "utm_northing": 4689392.089319538,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533271.5979528,
+        "latitude": 42.337736666666665,
+        "longitude": -71.08984666666667,
+        "altitude": -0.2,
+        "utm_easting": 327838.47732509905,
+        "utm_northing": 4689390.975521081,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533272.6010256,
+        "latitude": 42.33772666666667,
+        "longitude": -71.08984333333333,
+        "altitude": -0.0,
+        "utm_easting": 327838.72464605886,
+        "utm_northing": 4689389.858348118,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533273.5986707,
+        "latitude": 42.33772333333334,
+        "longitude": -71.08984166666667,
+        "altitude": 0.2,
+        "utm_easting": 327838.85285497917,
+        "utm_northing": 4689389.484832297,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533274.5962942,
+        "latitude": 42.337718333333335,
+        "longitude": -71.08983833333333,
+        "altitude": 0.7,
+        "utm_easting": 327839.1138212662,
+        "utm_northing": 4689388.922871319,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533275.5977612,
+        "latitude": 42.337718333333335,
+        "longitude": -71.08983666666667,
+        "altitude": 0.3,
+        "utm_easting": 327839.2511270187,
+        "utm_northing": 4689388.9194968175,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533276.5965326,
+        "latitude": 42.337716666666665,
+        "longitude": -71.089835,
+        "altitude": 0.6,
+        "utm_easting": 327839.3838843814,
+        "utm_northing": 4689388.731051664,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533277.5989678,
+        "latitude": 42.337718333333335,
+        "longitude": -71.089835,
+        "altitude": 0.6,
+        "utm_easting": 327839.38843277324,
+        "utm_northing": 4689388.916122319,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533278.5965626,
+        "latitude": 42.337718333333335,
+        "longitude": -71.089835,
+        "altitude": 0.6,
+        "utm_easting": 327839.38843277324,
+        "utm_northing": 4689388.916122319,
+        "zone": 19,
+        "letter": "T"
+    },
+    {
+        "timestamp": 1729533279.602029,
+        "latitude": 42.337718333333335,
+        "longitude": -71.089835,
+        "altitude": 0.6,
+        "utm_easting": 327839.38843277324,
+        "utm_northing": 4689388.916122319,
+        "zone": 19,
+        "letter": "T"
+    }
+]

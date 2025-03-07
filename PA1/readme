@@ -1,0 +1,10 @@
+Commands to run to test the publisher and subscriber:
+ros2 run pub_sub publisher
+ros2 run pub_sub subscriber
+
+Commands to run to test the server and client:
+ros2 run srv_cli service
+ros2 run srv_cli client a b (replace a and b with any two numbers to add)
+
+
+

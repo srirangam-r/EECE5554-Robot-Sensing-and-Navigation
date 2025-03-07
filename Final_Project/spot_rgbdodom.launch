@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- Define launch arguments -->
+  <arg name="rgb_topic"               default="/spot/camera/frontright/image"/>
+  <arg name="depth_topic"             default="/spot/depth/frontright/depth_in_visual"/>
+  <arg name="camera_info_topic"       default="/spot/camera/frontright/camera_info"/>
+  <arg name="frame_id"                default="body"/>
+  <arg name="approx_sync"             default="true"/>
+  <arg name="approx_sync_max_interval" default="0.01"/>
+  <arg name="rtabmap_args"            default="--delete_db_on_start --logconsole"/>
+
+  <!-- RGB-D Synchronization -->
+  <node pkg="rtabmap_sync" type="rgbd_sync" name="rgbd_sync" output="screen">
+    <remap from="rgb/image"         to="$(arg rgb_topic)"/>
+    <remap from="depth/image"       to="$(arg depth_topic)"/>
+    <remap from="rgb/camera_info"   to="$(arg camera_info_topic)"/>
+    <param name="approx_sync" value="$(arg approx_sync)"/>
+    <param name="approx_sync_max_interval" value="$(arg approx_sync_max_interval)"/>
+  </node>
+
+  <!-- Main RTAB-Map node -->
+  <node pkg="rtabmap_slam" type="rtabmap" name="rtabmap" args="$(arg rtabmap_args)" output="screen">
+    <param name="frame_id"                type="string" value="$(arg frame_id)"/>
+    <param name="subscribe_sensor_data"   type="bool"   value="true"/>
+    
+    <!-- Remap topics -->
+    <remap from="rgb/image"         to="rgbd_sync/rgb/image"/>
+    <remap from="depth/image"       to="rgbd_sync/depth/image"/>
+    <remap from="rgb/camera_info"   to="rgbd_sync/rgb/camera_info"/>
+  </node>
+
+  <!-- Visualization node -->
+  <node pkg="rtabmap_viz" type="rtabmap_viz" name="rtabmap_viz" output="screen">
+    <param name="frame_id" type="string" value="$(arg frame_id)"/>
+    <param name="subscribe_sensor_data"  type="bool"   value="true"/>
+    
+    <!-- Remap topics -->
+    <remap from="rgb/image"         to="rgbd_sync/rgb/image"/>
+    <remap from="depth/image"       to="rgbd_sync/depth/image"/>
+    <remap from="rgb/camera_info"   to="rgbd_sync/rgb/camera_info"/>
+  </node>
+
+</launch>

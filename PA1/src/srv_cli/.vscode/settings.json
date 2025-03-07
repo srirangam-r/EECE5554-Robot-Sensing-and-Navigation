@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/srirangamrh/ros2_ws/install/srv_cli/lib/python3.10/site-packages",
+        "/home/srirangamrh/ros2_ws/install/pub_sub/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/srirangamrh/ros2_ws/install/srv_cli/lib/python3.10/site-packages",
+        "/home/srirangamrh/ros2_ws/install/pub_sub/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
